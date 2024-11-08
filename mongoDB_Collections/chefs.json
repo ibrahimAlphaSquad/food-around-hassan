@@ -1,0 +1,19 @@
+[
+  {
+    "name": "John Doe",
+    "kitchenName": "Doe's Kitchen",
+    "email": "john.doe@example.com",
+    "password": "hashed_password_here",
+    "address": { "type": "Point", "coordinates": [40.7128, -74.006] },
+    "phone": "123-456-7890",
+    "description": "Serving delicious meals daily.",
+    "image": "image_url_here",
+    "featured": true,
+    "role": "chef",
+    "specialities": "Italian, Pizza, Pasta",
+    "dishes": "food_object_id_here",
+    "minOrder": 10,
+    "deliveryTime": 1.5,
+    "rating": 4.5
+  }
+]

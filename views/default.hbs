@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Food Round APIs</title>
+
+    <style>
+        body{
+            text-align: -webkit-center;
+        }
+        span.titles{
+            display: block;
+            padding: 0.3em;
+            margin-bottom: 0.5%;
+            font-weight: 700;
+            font-size: 1.3em;
+        }
+        a{
+            text-decoration: none;
+        }
+        .links {
+            display: block;
+            border-radius: 1em;
+            width: fit-content;
+            padding: 0.5em 0.2em;
+            margin-bottom: 4%;
+            box-shadow: 5px 0px 25px rgb(88, 88, 88);
+        }
+        div{
+            width: fit-content;
+            text-align: -webkit-center;
+            padding: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <h2>App under construction</h2>
+    <a href="/proto.html" target="_blank">
+        <h2 id="proto">Click here to view the prototype</h2>
+    </a>
+    <p>Following routes have been setup so far</p>
+        
+        <div>
+            <span class="titles">Food Related</span>
+        <span class="links"><a href="https://food-around.herokuapp.com/food/find" target="_blank">GET/food - returns all food items in DB</a></span>
+        
+        <span class="links"><a href="https://food-around.herokuapp.com/food/find/5aef233716bd05001403bf67" target="_blank">GET/food:Id - returns single food item</a></span>
+        
+        <span class="links"><a href="https://food-around.herokuapp.com/food/add" target="_blank">POST/food - adds food item to DB</a></span>
+        </div>
+
+        <div>
+            <span class="titles">Search Related</span>
+        <span class="links"><a href="https://food-around.herokuapp.com/search/food/cake" target="_blank">GET/search/food/:query - Returns food items having :query in either name or description</a></span>
+        
+        <span class="links"><a href="https://food-around.herokuapp.com/search/chef/meena" target="_blank">GET/search/chefs/:query - Returns Chef(s) having :query in their name(s)</a></span>
+        
+        </div>
+
+        <div>
+            <span class="titles">User Related</span>
+        <span class="links"><a href="https://food-around.herokuapp.com/user/signin" target="_blank">POST/user/signin - Sign ins a user and returns an Auth token</a></span>
+        <span class="links"><a href="https://food-around.herokuapp.com/user/signup" target="_blank">POST/user/signup - Sign ups a user and returns an Auth token</a></span>
+
+        <span class="links"><a href="https://food-around.herokuapp.com/role/chefs" target="_blank">GET/role/:role - Returns all users with a role of /:role where role = "chefs" || "customers"</a></span>
+        
+        <span class="links"><a href="https://food-around.herokuapp.com/user/5ac93ada2f33d40014bac4d8" target="_blank">GET/user/:Id - Returns a user having provided ID, works for both Chefs and Customers</a></span>
+        
+        
+        </div>
+
+        <div>
+            <span class="titles">For Featured Stuff</span>
+        <span class="links"><a href="https://food-around.herokuapp.com/featured/chefs" target="_blank">GET/featured/chefs - Returns a list of featured chefs</a></span>
+        <span class="links"><a href="https://food-around.herokuapp.com/featured/food" target="_blank">GET/featured/food - Returns a list of featured food</a></span>
+        </div>
+
+</body>
+</html>
