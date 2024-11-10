@@ -1,0 +1,12 @@
+{
+  "pakistani_foods": {
+    "main_courses": ["Biryani", "Karahi", "Nihari", "Haleem", "Pulao", "Paye"],
+    "bbq": ["Tikka", "Malai Boti", "Seekh Kebab", "Chapli Kebab", "Chargha"],
+    "fast_food": ["Zinger Burger", "Broast", "Shawarma", "Club Sandwich"]
+  },
+  "price_ranges": {
+    "main_courses": { "min": 400, "max": 1500 },
+    "bbq": { "min": 300, "max": 1200 },
+    "fast_food": { "min": 200, "max": 800 }
+  }
+}

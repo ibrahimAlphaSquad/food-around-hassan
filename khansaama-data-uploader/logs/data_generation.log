@@ -1,0 +1,1059 @@
+2024-11-10 08:01:34,799 - INFO - Starting data generation and upload process...
+2024-11-10 08:01:35,048 - INFO - Creating indexes...
+2024-11-10 08:01:37,488 - INFO - Generating and uploading chefs...
+2024-11-10 08:01:37,490 - INFO - Generated chef: Email - robbinsderek@example.com, Password - password123
+2024-11-10 08:01:37,491 - INFO - Generated chef: Email - richard87@example.net, Password - password123
+2024-11-10 08:01:37,492 - INFO - Generated chef: Email - connieedwards@example.com, Password - password123
+2024-11-10 08:01:37,493 - INFO - Generated chef: Email - jeffrey29@example.org, Password - password123
+2024-11-10 08:01:37,493 - INFO - Generated chef: Email - keithosborne@example.net, Password - password123
+2024-11-10 08:01:37,494 - INFO - Generated chef: Email - reyeswilliam@example.org, Password - password123
+2024-11-10 08:01:37,494 - INFO - Generated chef: Email - ryan88@example.net, Password - password123
+2024-11-10 08:01:37,494 - INFO - Generated chef: Email - smiller@example.org, Password - password123
+2024-11-10 08:01:37,495 - INFO - Generated chef: Email - tgray@example.com, Password - password123
+2024-11-10 08:01:37,495 - INFO - Generated chef: Email - barbarajohnson@example.com, Password - password123
+2024-11-10 08:01:37,495 - INFO - Generated chef: Email - xjackson@example.net, Password - password123
+2024-11-10 08:01:37,496 - INFO - Generated chef: Email - mccormickbrandon@example.net, Password - password123
+2024-11-10 08:01:37,496 - INFO - Generated chef: Email - barbara90@example.org, Password - password123
+2024-11-10 08:01:37,496 - INFO - Generated chef: Email - pamelajones@example.org, Password - password123
+2024-11-10 08:01:37,497 - INFO - Generated chef: Email - andersoncharles@example.org, Password - password123
+2024-11-10 08:01:37,497 - INFO - Generated chef: Email - starkkyle@example.net, Password - password123
+2024-11-10 08:01:37,497 - INFO - Generated chef: Email - lawrencepalmer@example.org, Password - password123
+2024-11-10 08:01:37,498 - INFO - Generated chef: Email - hendricksjeffrey@example.com, Password - password123
+2024-11-10 08:01:37,498 - INFO - Generated chef: Email - plindsey@example.net, Password - password123
+2024-11-10 08:01:37,498 - INFO - Generated chef: Email - abrown@example.net, Password - password123
+2024-11-10 08:01:37,498 - INFO - Generated chef: Email - xtorres@example.net, Password - password123
+2024-11-10 08:01:37,499 - INFO - Generated chef: Email - benjaminbailey@example.org, Password - password123
+2024-11-10 08:01:37,499 - INFO - Generated chef: Email - perrymatthew@example.com, Password - password123
+2024-11-10 08:01:37,500 - INFO - Generated chef: Email - dana43@example.net, Password - password123
+2024-11-10 08:01:37,500 - INFO - Generated chef: Email - georgeturner@example.com, Password - password123
+2024-11-10 08:01:37,500 - INFO - Generated chef: Email - shellyhammond@example.net, Password - password123
+2024-11-10 08:01:37,501 - INFO - Generated chef: Email - jason75@example.com, Password - password123
+2024-11-10 08:01:37,501 - INFO - Generated chef: Email - cooktony@example.com, Password - password123
+2024-11-10 08:01:37,501 - INFO - Generated chef: Email - tiffany59@example.org, Password - password123
+2024-11-10 08:01:37,502 - INFO - Generated chef: Email - kimberlychandler@example.com, Password - password123
+2024-11-10 08:01:37,502 - INFO - Generated chef: Email - dbailey@example.org, Password - password123
+2024-11-10 08:01:37,502 - INFO - Generated chef: Email - amanda28@example.org, Password - password123
+2024-11-10 08:01:37,503 - INFO - Generated chef: Email - michael85@example.net, Password - password123
+2024-11-10 08:01:37,503 - INFO - Generated chef: Email - tylerryan@example.net, Password - password123
+2024-11-10 08:01:37,503 - INFO - Generated chef: Email - jamesrandall@example.org, Password - password123
+2024-11-10 08:01:37,504 - INFO - Generated chef: Email - alanboyer@example.net, Password - password123
+2024-11-10 08:01:37,504 - INFO - Generated chef: Email - jayala@example.org, Password - password123
+2024-11-10 08:01:37,504 - INFO - Generated chef: Email - kyoung@example.net, Password - password123
+2024-11-10 08:01:37,505 - INFO - Generated chef: Email - woodrobyn@example.com, Password - password123
+2024-11-10 08:01:37,505 - INFO - Generated chef: Email - vharris@example.org, Password - password123
+2024-11-10 08:01:37,505 - INFO - Generated chef: Email - uwerner@example.net, Password - password123
+2024-11-10 08:01:37,506 - INFO - Generated chef: Email - littlerobin@example.net, Password - password123
+2024-11-10 08:01:37,506 - INFO - Generated chef: Email - jose71@example.com, Password - password123
+2024-11-10 08:01:37,506 - INFO - Generated chef: Email - christinastone@example.com, Password - password123
+2024-11-10 08:01:37,507 - INFO - Generated chef: Email - rowekevin@example.net, Password - password123
+2024-11-10 08:01:37,507 - INFO - Generated chef: Email - james59@example.org, Password - password123
+2024-11-10 08:01:37,507 - INFO - Generated chef: Email - williamsjeanne@example.org, Password - password123
+2024-11-10 08:01:37,508 - INFO - Generated chef: Email - apark@example.org, Password - password123
+2024-11-10 08:01:37,508 - INFO - Generated chef: Email - kimberlywoods@example.net, Password - password123
+2024-11-10 08:01:37,508 - INFO - Generated chef: Email - sjones@example.org, Password - password123
+2024-11-10 08:01:38,739 - INFO - Generating and uploading foods...
+2024-11-10 08:01:38,740 - INFO - Generated food item: Special Shawarma by Chef 67302211a1fb347cf2bf957b, Id: 67302212a1fb347cf2bf95ab
+2024-11-10 08:01:38,741 - INFO - Generated food item: Deluxe Broast by Chef 67302211a1fb347cf2bf957d, Id: 67302212a1fb347cf2bf95ac
+2024-11-10 08:01:38,742 - INFO - Generated food item: Special Chargha by Chef 67302211a1fb347cf2bf9594, Id: 67302212a1fb347cf2bf95ad
+2024-11-10 08:01:38,743 - INFO - Generated food item: Classic Chapli Kebab by Chef 67302211a1fb347cf2bf9586, Id: 67302212a1fb347cf2bf95ae
+2024-11-10 08:01:38,743 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf95af
+2024-11-10 08:01:38,744 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf95b0
+2024-11-10 08:01:38,744 - INFO - Generated food item: Classic Shawarma by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf95b1
+2024-11-10 08:01:38,744 - INFO - Generated food item: Classic Malai Boti by Chef 67302211a1fb347cf2bf957c, Id: 67302212a1fb347cf2bf95b2
+2024-11-10 08:01:38,744 - INFO - Generated food item: Deluxe Broast by Chef 67302211a1fb347cf2bf958c, Id: 67302212a1fb347cf2bf95b3
+2024-11-10 08:01:38,745 - INFO - Generated food item: Special Club Sandwich by Chef 67302211a1fb347cf2bf95a8, Id: 67302212a1fb347cf2bf95b4
+2024-11-10 08:01:38,745 - INFO - Generated food item: Special Chargha by Chef 67302211a1fb347cf2bf9589, Id: 67302212a1fb347cf2bf95b5
+2024-11-10 08:01:38,745 - INFO - Generated food item: Classic Karahi by Chef 67302211a1fb347cf2bf95a4, Id: 67302212a1fb347cf2bf95b6
+2024-11-10 08:01:38,745 - INFO - Generated food item: Premium Zinger Burger by Chef 67302211a1fb347cf2bf958e, Id: 67302212a1fb347cf2bf95b7
+2024-11-10 08:01:38,746 - INFO - Generated food item: Classic Zinger Burger by Chef 67302211a1fb347cf2bf959c, Id: 67302212a1fb347cf2bf95b8
+2024-11-10 08:01:38,746 - INFO - Generated food item: Premium Zinger Burger by Chef 67302211a1fb347cf2bf9583, Id: 67302212a1fb347cf2bf95b9
+2024-11-10 08:01:38,746 - INFO - Generated food item: Classic Broast by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf95ba
+2024-11-10 08:01:38,746 - INFO - Generated food item: Premium Seekh Kebab by Chef 67302211a1fb347cf2bf95a4, Id: 67302212a1fb347cf2bf95bb
+2024-11-10 08:01:38,746 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf9589, Id: 67302212a1fb347cf2bf95bc
+2024-11-10 08:01:38,747 - INFO - Generated food item: Classic Chargha by Chef 67302211a1fb347cf2bf95a3, Id: 67302212a1fb347cf2bf95bd
+2024-11-10 08:01:38,747 - INFO - Generated food item: Special Pulao by Chef 67302211a1fb347cf2bf9582, Id: 67302212a1fb347cf2bf95be
+2024-11-10 08:01:38,747 - INFO - Generated food item: Deluxe Broast by Chef 67302211a1fb347cf2bf9589, Id: 67302212a1fb347cf2bf95bf
+2024-11-10 08:01:38,747 - INFO - Generated food item: Deluxe Chargha by Chef 67302211a1fb347cf2bf9586, Id: 67302212a1fb347cf2bf95c0
+2024-11-10 08:01:38,748 - INFO - Generated food item: Special Chargha by Chef 67302211a1fb347cf2bf95a4, Id: 67302212a1fb347cf2bf95c1
+2024-11-10 08:01:38,748 - INFO - Generated food item: Classic Shawarma by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf95c2
+2024-11-10 08:01:38,748 - INFO - Generated food item: Classic Pulao by Chef 67302211a1fb347cf2bf9599, Id: 67302212a1fb347cf2bf95c3
+2024-11-10 08:01:38,748 - INFO - Generated food item: Special Seekh Kebab by Chef 67302211a1fb347cf2bf9585, Id: 67302212a1fb347cf2bf95c4
+2024-11-10 08:01:38,748 - INFO - Generated food item: Premium Biryani by Chef 67302211a1fb347cf2bf95a9, Id: 67302212a1fb347cf2bf95c5
+2024-11-10 08:01:38,749 - INFO - Generated food item: Premium Karahi by Chef 67302211a1fb347cf2bf9589, Id: 67302212a1fb347cf2bf95c6
+2024-11-10 08:01:38,749 - INFO - Generated food item: Classic Club Sandwich by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf95c7
+2024-11-10 08:01:38,749 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf95a0, Id: 67302212a1fb347cf2bf95c8
+2024-11-10 08:01:38,749 - INFO - Generated food item: Deluxe Shawarma by Chef 67302211a1fb347cf2bf95a3, Id: 67302212a1fb347cf2bf95c9
+2024-11-10 08:01:38,750 - INFO - Generated food item: Premium Tikka by Chef 67302211a1fb347cf2bf9586, Id: 67302212a1fb347cf2bf95ca
+2024-11-10 08:01:38,750 - INFO - Generated food item: Premium Seekh Kebab by Chef 67302211a1fb347cf2bf9580, Id: 67302212a1fb347cf2bf95cb
+2024-11-10 08:01:38,750 - INFO - Generated food item: Classic Haleem by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf95cc
+2024-11-10 08:01:38,750 - INFO - Generated food item: Special Zinger Burger by Chef 67302211a1fb347cf2bf9594, Id: 67302212a1fb347cf2bf95cd
+2024-11-10 08:01:38,751 - INFO - Generated food item: Classic Club Sandwich by Chef 67302211a1fb347cf2bf95a2, Id: 67302212a1fb347cf2bf95ce
+2024-11-10 08:01:38,751 - INFO - Generated food item: Premium Nihari by Chef 67302211a1fb347cf2bf958b, Id: 67302212a1fb347cf2bf95cf
+2024-11-10 08:01:38,751 - INFO - Generated food item: Premium Chargha by Chef 67302211a1fb347cf2bf959d, Id: 67302212a1fb347cf2bf95d0
+2024-11-10 08:01:38,751 - INFO - Generated food item: Premium Haleem by Chef 67302211a1fb347cf2bf957b, Id: 67302212a1fb347cf2bf95d1
+2024-11-10 08:01:38,752 - INFO - Generated food item: Special Zinger Burger by Chef 67302211a1fb347cf2bf959a, Id: 67302212a1fb347cf2bf95d2
+2024-11-10 08:01:38,752 - INFO - Generated food item: Classic Broast by Chef 67302211a1fb347cf2bf958b, Id: 67302212a1fb347cf2bf95d3
+2024-11-10 08:01:38,752 - INFO - Generated food item: Special Seekh Kebab by Chef 67302211a1fb347cf2bf957f, Id: 67302212a1fb347cf2bf95d4
+2024-11-10 08:01:38,752 - INFO - Generated food item: Special Chapli Kebab by Chef 67302211a1fb347cf2bf9595, Id: 67302212a1fb347cf2bf95d5
+2024-11-10 08:01:38,752 - INFO - Generated food item: Classic Zinger Burger by Chef 67302211a1fb347cf2bf9593, Id: 67302212a1fb347cf2bf95d6
+2024-11-10 08:01:38,753 - INFO - Generated food item: Classic Tikka by Chef 67302211a1fb347cf2bf9596, Id: 67302212a1fb347cf2bf95d7
+2024-11-10 08:01:38,753 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf959b, Id: 67302212a1fb347cf2bf95d8
+2024-11-10 08:01:38,753 - INFO - Generated food item: Special Nihari by Chef 67302211a1fb347cf2bf95a1, Id: 67302212a1fb347cf2bf95d9
+2024-11-10 08:01:38,753 - INFO - Generated food item: Premium Malai Boti by Chef 67302211a1fb347cf2bf958b, Id: 67302212a1fb347cf2bf95da
+2024-11-10 08:01:38,753 - INFO - Generated food item: Special Chapli Kebab by Chef 67302211a1fb347cf2bf9594, Id: 67302212a1fb347cf2bf95db
+2024-11-10 08:01:38,754 - INFO - Generated food item: Deluxe Paye by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf95dc
+2024-11-10 08:01:38,754 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf95a4, Id: 67302212a1fb347cf2bf95dd
+2024-11-10 08:01:38,754 - INFO - Generated food item: Special Pulao by Chef 67302211a1fb347cf2bf95a8, Id: 67302212a1fb347cf2bf95de
+2024-11-10 08:01:38,754 - INFO - Generated food item: Special Nihari by Chef 67302211a1fb347cf2bf9581, Id: 67302212a1fb347cf2bf95df
+2024-11-10 08:01:38,755 - INFO - Generated food item: Classic Haleem by Chef 67302211a1fb347cf2bf9581, Id: 67302212a1fb347cf2bf95e0
+2024-11-10 08:01:38,755 - INFO - Generated food item: Premium Nihari by Chef 67302211a1fb347cf2bf9584, Id: 67302212a1fb347cf2bf95e1
+2024-11-10 08:01:38,755 - INFO - Generated food item: Premium Nihari by Chef 67302211a1fb347cf2bf9581, Id: 67302212a1fb347cf2bf95e2
+2024-11-10 08:01:38,755 - INFO - Generated food item: Special Haleem by Chef 67302211a1fb347cf2bf9581, Id: 67302212a1fb347cf2bf95e3
+2024-11-10 08:01:38,756 - INFO - Generated food item: Premium Pulao by Chef 67302211a1fb347cf2bf959b, Id: 67302212a1fb347cf2bf95e4
+2024-11-10 08:01:38,756 - INFO - Generated food item: Premium Haleem by Chef 67302211a1fb347cf2bf95a1, Id: 67302212a1fb347cf2bf95e5
+2024-11-10 08:01:38,756 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf95e6
+2024-11-10 08:01:38,756 - INFO - Generated food item: Classic Tikka by Chef 67302211a1fb347cf2bf9581, Id: 67302212a1fb347cf2bf95e7
+2024-11-10 08:01:38,756 - INFO - Generated food item: Deluxe Karahi by Chef 67302211a1fb347cf2bf95a4, Id: 67302212a1fb347cf2bf95e8
+2024-11-10 08:01:38,757 - INFO - Generated food item: Deluxe Biryani by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf95e9
+2024-11-10 08:01:38,757 - INFO - Generated food item: Classic Karahi by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf95ea
+2024-11-10 08:01:38,757 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf9591, Id: 67302212a1fb347cf2bf95eb
+2024-11-10 08:01:38,757 - INFO - Generated food item: Premium Broast by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf95ec
+2024-11-10 08:01:38,757 - INFO - Generated food item: Special Biryani by Chef 67302211a1fb347cf2bf9588, Id: 67302212a1fb347cf2bf95ed
+2024-11-10 08:01:38,758 - INFO - Generated food item: Special Pulao by Chef 67302211a1fb347cf2bf9599, Id: 67302212a1fb347cf2bf95ee
+2024-11-10 08:01:38,758 - INFO - Generated food item: Deluxe Pulao by Chef 67302211a1fb347cf2bf958d, Id: 67302212a1fb347cf2bf95ef
+2024-11-10 08:01:38,758 - INFO - Generated food item: Special Chargha by Chef 67302211a1fb347cf2bf9597, Id: 67302212a1fb347cf2bf95f0
+2024-11-10 08:01:38,758 - INFO - Generated food item: Premium Malai Boti by Chef 67302211a1fb347cf2bf9580, Id: 67302212a1fb347cf2bf95f1
+2024-11-10 08:01:38,758 - INFO - Generated food item: Special Haleem by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf95f2
+2024-11-10 08:01:38,759 - INFO - Generated food item: Special Malai Boti by Chef 67302211a1fb347cf2bf959c, Id: 67302212a1fb347cf2bf95f3
+2024-11-10 08:01:38,759 - INFO - Generated food item: Premium Zinger Burger by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf95f4
+2024-11-10 08:01:38,759 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf9594, Id: 67302212a1fb347cf2bf95f5
+2024-11-10 08:01:38,759 - INFO - Generated food item: Deluxe Paye by Chef 67302211a1fb347cf2bf9586, Id: 67302212a1fb347cf2bf95f6
+2024-11-10 08:01:38,760 - INFO - Generated food item: Classic Seekh Kebab by Chef 67302211a1fb347cf2bf9594, Id: 67302212a1fb347cf2bf95f7
+2024-11-10 08:01:38,760 - INFO - Generated food item: Deluxe Haleem by Chef 67302211a1fb347cf2bf95a6, Id: 67302212a1fb347cf2bf95f8
+2024-11-10 08:01:38,760 - INFO - Generated food item: Premium Tikka by Chef 67302211a1fb347cf2bf958a, Id: 67302212a1fb347cf2bf95f9
+2024-11-10 08:01:38,760 - INFO - Generated food item: Classic Paye by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf95fa
+2024-11-10 08:01:38,760 - INFO - Generated food item: Special Zinger Burger by Chef 67302211a1fb347cf2bf958d, Id: 67302212a1fb347cf2bf95fb
+2024-11-10 08:01:38,761 - INFO - Generated food item: Deluxe Seekh Kebab by Chef 67302211a1fb347cf2bf95aa, Id: 67302212a1fb347cf2bf95fc
+2024-11-10 08:01:38,761 - INFO - Generated food item: Classic Biryani by Chef 67302211a1fb347cf2bf957f, Id: 67302212a1fb347cf2bf95fd
+2024-11-10 08:01:38,761 - INFO - Generated food item: Special Paye by Chef 67302211a1fb347cf2bf9579, Id: 67302212a1fb347cf2bf95fe
+2024-11-10 08:01:38,761 - INFO - Generated food item: Deluxe Haleem by Chef 67302211a1fb347cf2bf9580, Id: 67302212a1fb347cf2bf95ff
+2024-11-10 08:01:38,762 - INFO - Generated food item: Classic Biryani by Chef 67302211a1fb347cf2bf95a2, Id: 67302212a1fb347cf2bf9600
+2024-11-10 08:01:38,762 - INFO - Generated food item: Premium Biryani by Chef 67302211a1fb347cf2bf95a6, Id: 67302212a1fb347cf2bf9601
+2024-11-10 08:01:38,762 - INFO - Generated food item: Special Zinger Burger by Chef 67302211a1fb347cf2bf9595, Id: 67302212a1fb347cf2bf9602
+2024-11-10 08:01:38,762 - INFO - Generated food item: Classic Chargha by Chef 67302211a1fb347cf2bf957a, Id: 67302212a1fb347cf2bf9603
+2024-11-10 08:01:38,763 - INFO - Generated food item: Classic Seekh Kebab by Chef 67302211a1fb347cf2bf9593, Id: 67302212a1fb347cf2bf9604
+2024-11-10 08:01:38,763 - INFO - Generated food item: Special Shawarma by Chef 67302211a1fb347cf2bf9587, Id: 67302212a1fb347cf2bf9605
+2024-11-10 08:01:38,763 - INFO - Generated food item: Deluxe Chargha by Chef 67302211a1fb347cf2bf959d, Id: 67302212a1fb347cf2bf9606
+2024-11-10 08:01:38,763 - INFO - Generated food item: Deluxe Malai Boti by Chef 67302211a1fb347cf2bf9579, Id: 67302212a1fb347cf2bf9607
+2024-11-10 08:01:38,764 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf9586, Id: 67302212a1fb347cf2bf9608
+2024-11-10 08:01:38,764 - INFO - Generated food item: Deluxe Shawarma by Chef 67302211a1fb347cf2bf959d, Id: 67302212a1fb347cf2bf9609
+2024-11-10 08:01:38,764 - INFO - Generated food item: Deluxe Shawarma by Chef 67302211a1fb347cf2bf9582, Id: 67302212a1fb347cf2bf960a
+2024-11-10 08:01:38,764 - INFO - Generated food item: Special Nihari by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf960b
+2024-11-10 08:01:38,765 - INFO - Generated food item: Classic Broast by Chef 67302211a1fb347cf2bf95a9, Id: 67302212a1fb347cf2bf960c
+2024-11-10 08:01:38,765 - INFO - Generated food item: Classic Seekh Kebab by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf960d
+2024-11-10 08:01:38,765 - INFO - Generated food item: Deluxe Zinger Burger by Chef 67302211a1fb347cf2bf9595, Id: 67302212a1fb347cf2bf960e
+2024-11-10 08:01:38,765 - INFO - Generated food item: Classic Pulao by Chef 67302211a1fb347cf2bf957b, Id: 67302212a1fb347cf2bf960f
+2024-11-10 08:01:38,765 - INFO - Generated food item: Deluxe Broast by Chef 67302211a1fb347cf2bf95a2, Id: 67302212a1fb347cf2bf9610
+2024-11-10 08:01:38,766 - INFO - Generated food item: Classic Zinger Burger by Chef 67302211a1fb347cf2bf959d, Id: 67302212a1fb347cf2bf9611
+2024-11-10 08:01:38,766 - INFO - Generated food item: Premium Malai Boti by Chef 67302211a1fb347cf2bf9593, Id: 67302212a1fb347cf2bf9612
+2024-11-10 08:01:38,766 - INFO - Generated food item: Special Malai Boti by Chef 67302211a1fb347cf2bf957b, Id: 67302212a1fb347cf2bf9613
+2024-11-10 08:01:38,766 - INFO - Generated food item: Premium Pulao by Chef 67302211a1fb347cf2bf9593, Id: 67302212a1fb347cf2bf9614
+2024-11-10 08:01:38,767 - INFO - Generated food item: Deluxe Biryani by Chef 67302211a1fb347cf2bf957f, Id: 67302212a1fb347cf2bf9615
+2024-11-10 08:01:38,767 - INFO - Generated food item: Special Zinger Burger by Chef 67302211a1fb347cf2bf9582, Id: 67302212a1fb347cf2bf9616
+2024-11-10 08:01:38,767 - INFO - Generated food item: Deluxe Malai Boti by Chef 67302211a1fb347cf2bf959e, Id: 67302212a1fb347cf2bf9617
+2024-11-10 08:01:38,768 - INFO - Generated food item: Special Seekh Kebab by Chef 67302211a1fb347cf2bf9580, Id: 67302212a1fb347cf2bf9618
+2024-11-10 08:01:38,768 - INFO - Generated food item: Special Shawarma by Chef 67302211a1fb347cf2bf9597, Id: 67302212a1fb347cf2bf9619
+2024-11-10 08:01:38,768 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf959e, Id: 67302212a1fb347cf2bf961a
+2024-11-10 08:01:38,768 - INFO - Generated food item: Classic Biryani by Chef 67302211a1fb347cf2bf958e, Id: 67302212a1fb347cf2bf961b
+2024-11-10 08:01:38,768 - INFO - Generated food item: Special Chapli Kebab by Chef 67302211a1fb347cf2bf959c, Id: 67302212a1fb347cf2bf961c
+2024-11-10 08:01:38,769 - INFO - Generated food item: Deluxe Karahi by Chef 67302211a1fb347cf2bf958d, Id: 67302212a1fb347cf2bf961d
+2024-11-10 08:01:38,769 - INFO - Generated food item: Premium Seekh Kebab by Chef 67302211a1fb347cf2bf9590, Id: 67302212a1fb347cf2bf961e
+2024-11-10 08:01:38,769 - INFO - Generated food item: Classic Tikka by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf961f
+2024-11-10 08:01:38,769 - INFO - Generated food item: Special Zinger Burger by Chef 67302211a1fb347cf2bf95a6, Id: 67302212a1fb347cf2bf9620
+2024-11-10 08:01:38,770 - INFO - Generated food item: Special Pulao by Chef 67302211a1fb347cf2bf958d, Id: 67302212a1fb347cf2bf9621
+2024-11-10 08:01:38,770 - INFO - Generated food item: Deluxe Zinger Burger by Chef 67302211a1fb347cf2bf95a9, Id: 67302212a1fb347cf2bf9622
+2024-11-10 08:01:38,770 - INFO - Generated food item: Special Paye by Chef 67302211a1fb347cf2bf958e, Id: 67302212a1fb347cf2bf9623
+2024-11-10 08:01:38,771 - INFO - Generated food item: Special Tikka by Chef 67302211a1fb347cf2bf959a, Id: 67302212a1fb347cf2bf9624
+2024-11-10 08:01:38,771 - INFO - Generated food item: Premium Paye by Chef 67302211a1fb347cf2bf9596, Id: 67302212a1fb347cf2bf9625
+2024-11-10 08:01:38,771 - INFO - Generated food item: Premium Zinger Burger by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf9626
+2024-11-10 08:01:38,771 - INFO - Generated food item: Premium Chapli Kebab by Chef 67302211a1fb347cf2bf9591, Id: 67302212a1fb347cf2bf9627
+2024-11-10 08:01:38,772 - INFO - Generated food item: Premium Biryani by Chef 67302211a1fb347cf2bf959f, Id: 67302212a1fb347cf2bf9628
+2024-11-10 08:01:38,772 - INFO - Generated food item: Classic Haleem by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf9629
+2024-11-10 08:01:38,772 - INFO - Generated food item: Classic Karahi by Chef 67302211a1fb347cf2bf9590, Id: 67302212a1fb347cf2bf962a
+2024-11-10 08:01:38,772 - INFO - Generated food item: Premium Karahi by Chef 67302211a1fb347cf2bf95a0, Id: 67302212a1fb347cf2bf962b
+2024-11-10 08:01:38,772 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf9595, Id: 67302212a1fb347cf2bf962c
+2024-11-10 08:01:38,773 - INFO - Generated food item: Classic Seekh Kebab by Chef 67302211a1fb347cf2bf9585, Id: 67302212a1fb347cf2bf962d
+2024-11-10 08:01:38,773 - INFO - Generated food item: Classic Biryani by Chef 67302211a1fb347cf2bf959b, Id: 67302212a1fb347cf2bf962e
+2024-11-10 08:01:38,773 - INFO - Generated food item: Special Paye by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf962f
+2024-11-10 08:01:38,773 - INFO - Generated food item: Premium Biryani by Chef 67302211a1fb347cf2bf95a8, Id: 67302212a1fb347cf2bf9630
+2024-11-10 08:01:38,774 - INFO - Generated food item: Premium Haleem by Chef 67302211a1fb347cf2bf9595, Id: 67302212a1fb347cf2bf9631
+2024-11-10 08:01:38,774 - INFO - Generated food item: Deluxe Seekh Kebab by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf9632
+2024-11-10 08:01:38,774 - INFO - Generated food item: Deluxe Club Sandwich by Chef 67302211a1fb347cf2bf95a0, Id: 67302212a1fb347cf2bf9633
+2024-11-10 08:01:38,774 - INFO - Generated food item: Premium Shawarma by Chef 67302211a1fb347cf2bf95a2, Id: 67302212a1fb347cf2bf9634
+2024-11-10 08:01:38,774 - INFO - Generated food item: Special Club Sandwich by Chef 67302211a1fb347cf2bf957f, Id: 67302212a1fb347cf2bf9635
+2024-11-10 08:01:38,775 - INFO - Generated food item: Premium Malai Boti by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf9636
+2024-11-10 08:01:38,775 - INFO - Generated food item: Classic Zinger Burger by Chef 67302211a1fb347cf2bf957e, Id: 67302212a1fb347cf2bf9637
+2024-11-10 08:01:38,775 - INFO - Generated food item: Classic Karahi by Chef 67302211a1fb347cf2bf959b, Id: 67302212a1fb347cf2bf9638
+2024-11-10 08:01:38,775 - INFO - Generated food item: Premium Biryani by Chef 67302211a1fb347cf2bf958b, Id: 67302212a1fb347cf2bf9639
+2024-11-10 08:01:38,775 - INFO - Generated food item: Classic Paye by Chef 67302211a1fb347cf2bf9599, Id: 67302212a1fb347cf2bf963a
+2024-11-10 08:01:38,776 - INFO - Generated food item: Deluxe Tikka by Chef 67302211a1fb347cf2bf958b, Id: 67302212a1fb347cf2bf963b
+2024-11-10 08:01:38,776 - INFO - Generated food item: Premium Biryani by Chef 67302211a1fb347cf2bf957c, Id: 67302212a1fb347cf2bf963c
+2024-11-10 08:01:38,776 - INFO - Generated food item: Classic Karahi by Chef 67302211a1fb347cf2bf959e, Id: 67302212a1fb347cf2bf963d
+2024-11-10 08:01:38,776 - INFO - Generated food item: Special Haleem by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf963e
+2024-11-10 08:01:38,776 - INFO - Generated food item: Premium Shawarma by Chef 67302211a1fb347cf2bf957d, Id: 67302212a1fb347cf2bf963f
+2024-11-10 08:01:38,777 - INFO - Generated food item: Special Shawarma by Chef 67302211a1fb347cf2bf958c, Id: 67302212a1fb347cf2bf9640
+2024-11-10 08:01:38,777 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf95a3, Id: 67302212a1fb347cf2bf9641
+2024-11-10 08:01:38,777 - INFO - Generated food item: Special Chargha by Chef 67302211a1fb347cf2bf959d, Id: 67302212a1fb347cf2bf9642
+2024-11-10 08:01:38,777 - INFO - Generated food item: Premium Paye by Chef 67302211a1fb347cf2bf9595, Id: 67302212a1fb347cf2bf9643
+2024-11-10 08:01:38,777 - INFO - Generated food item: Special Chapli Kebab by Chef 67302211a1fb347cf2bf95a2, Id: 67302212a1fb347cf2bf9644
+2024-11-10 08:01:38,778 - INFO - Generated food item: Classic Broast by Chef 67302211a1fb347cf2bf957d, Id: 67302212a1fb347cf2bf9645
+2024-11-10 08:01:38,778 - INFO - Generated food item: Special Seekh Kebab by Chef 67302211a1fb347cf2bf95a3, Id: 67302212a1fb347cf2bf9646
+2024-11-10 08:01:38,778 - INFO - Generated food item: Classic Malai Boti by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf9647
+2024-11-10 08:01:38,778 - INFO - Generated food item: Special Haleem by Chef 67302211a1fb347cf2bf9586, Id: 67302212a1fb347cf2bf9648
+2024-11-10 08:01:38,778 - INFO - Generated food item: Deluxe Zinger Burger by Chef 67302211a1fb347cf2bf959c, Id: 67302212a1fb347cf2bf9649
+2024-11-10 08:01:38,779 - INFO - Generated food item: Premium Club Sandwich by Chef 67302211a1fb347cf2bf95a1, Id: 67302212a1fb347cf2bf964a
+2024-11-10 08:01:38,779 - INFO - Generated food item: Special Paye by Chef 67302211a1fb347cf2bf9579, Id: 67302212a1fb347cf2bf964b
+2024-11-10 08:01:38,779 - INFO - Generated food item: Premium Nihari by Chef 67302211a1fb347cf2bf957c, Id: 67302212a1fb347cf2bf964c
+2024-11-10 08:01:38,779 - INFO - Generated food item: Premium Shawarma by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf964d
+2024-11-10 08:01:38,780 - INFO - Generated food item: Special Tikka by Chef 67302211a1fb347cf2bf9588, Id: 67302212a1fb347cf2bf964e
+2024-11-10 08:01:38,780 - INFO - Generated food item: Special Biryani by Chef 67302211a1fb347cf2bf9597, Id: 67302212a1fb347cf2bf964f
+2024-11-10 08:01:38,780 - INFO - Generated food item: Deluxe Zinger Burger by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf9650
+2024-11-10 08:01:38,780 - INFO - Generated food item: Special Chargha by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf9651
+2024-11-10 08:01:38,781 - INFO - Generated food item: Deluxe Biryani by Chef 67302211a1fb347cf2bf95a1, Id: 67302212a1fb347cf2bf9652
+2024-11-10 08:01:38,781 - INFO - Generated food item: Special Club Sandwich by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf9653
+2024-11-10 08:01:38,781 - INFO - Generated food item: Premium Club Sandwich by Chef 67302211a1fb347cf2bf957d, Id: 67302212a1fb347cf2bf9654
+2024-11-10 08:01:38,781 - INFO - Generated food item: Premium Paye by Chef 67302211a1fb347cf2bf9588, Id: 67302212a1fb347cf2bf9655
+2024-11-10 08:01:38,781 - INFO - Generated food item: Classic Biryani by Chef 67302211a1fb347cf2bf959c, Id: 67302212a1fb347cf2bf9656
+2024-11-10 08:01:38,782 - INFO - Generated food item: Classic Malai Boti by Chef 67302211a1fb347cf2bf95a9, Id: 67302212a1fb347cf2bf9657
+2024-11-10 08:01:38,782 - INFO - Generated food item: Premium Pulao by Chef 67302211a1fb347cf2bf95a9, Id: 67302212a1fb347cf2bf9658
+2024-11-10 08:01:38,782 - INFO - Generated food item: Special Haleem by Chef 67302211a1fb347cf2bf9596, Id: 67302212a1fb347cf2bf9659
+2024-11-10 08:01:38,782 - INFO - Generated food item: Classic Pulao by Chef 67302211a1fb347cf2bf959c, Id: 67302212a1fb347cf2bf965a
+2024-11-10 08:01:38,783 - INFO - Generated food item: Classic Shawarma by Chef 67302211a1fb347cf2bf958b, Id: 67302212a1fb347cf2bf965b
+2024-11-10 08:01:38,783 - INFO - Generated food item: Premium Nihari by Chef 67302211a1fb347cf2bf958d, Id: 67302212a1fb347cf2bf965c
+2024-11-10 08:01:38,783 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf965d
+2024-11-10 08:01:38,783 - INFO - Generated food item: Special Tikka by Chef 67302211a1fb347cf2bf957b, Id: 67302212a1fb347cf2bf965e
+2024-11-10 08:01:38,784 - INFO - Generated food item: Deluxe Pulao by Chef 67302211a1fb347cf2bf9581, Id: 67302212a1fb347cf2bf965f
+2024-11-10 08:01:38,784 - INFO - Generated food item: Classic Zinger Burger by Chef 67302211a1fb347cf2bf95a8, Id: 67302212a1fb347cf2bf9660
+2024-11-10 08:01:38,785 - INFO - Generated food item: Premium Zinger Burger by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf9661
+2024-11-10 08:01:38,785 - INFO - Generated food item: Classic Seekh Kebab by Chef 67302211a1fb347cf2bf95a7, Id: 67302212a1fb347cf2bf9662
+2024-11-10 08:01:38,785 - INFO - Generated food item: Deluxe Chapli Kebab by Chef 67302211a1fb347cf2bf95a5, Id: 67302212a1fb347cf2bf9663
+2024-11-10 08:01:38,786 - INFO - Generated food item: Special Malai Boti by Chef 67302211a1fb347cf2bf959e, Id: 67302212a1fb347cf2bf9664
+2024-11-10 08:01:38,786 - INFO - Generated food item: Deluxe Haleem by Chef 67302211a1fb347cf2bf957c, Id: 67302212a1fb347cf2bf9665
+2024-11-10 08:01:38,786 - INFO - Generated food item: Classic Malai Boti by Chef 67302211a1fb347cf2bf9587, Id: 67302212a1fb347cf2bf9666
+2024-11-10 08:01:38,787 - INFO - Generated food item: Premium Chargha by Chef 67302211a1fb347cf2bf9592, Id: 67302212a1fb347cf2bf9667
+2024-11-10 08:01:38,787 - INFO - Generated food item: Classic Chargha by Chef 67302211a1fb347cf2bf957c, Id: 67302212a1fb347cf2bf9668
+2024-11-10 08:01:38,787 - INFO - Generated food item: Special Haleem by Chef 67302211a1fb347cf2bf95a4, Id: 67302212a1fb347cf2bf9669
+2024-11-10 08:01:38,787 - INFO - Generated food item: Special Broast by Chef 67302211a1fb347cf2bf9587, Id: 67302212a1fb347cf2bf966a
+2024-11-10 08:01:38,788 - INFO - Generated food item: Premium Broast by Chef 67302211a1fb347cf2bf95a0, Id: 67302212a1fb347cf2bf966b
+2024-11-10 08:01:38,788 - INFO - Generated food item: Deluxe Shawarma by Chef 67302211a1fb347cf2bf95a8, Id: 67302212a1fb347cf2bf966c
+2024-11-10 08:01:38,788 - INFO - Generated food item: Deluxe Pulao by Chef 67302211a1fb347cf2bf958f, Id: 67302212a1fb347cf2bf966d
+2024-11-10 08:01:38,788 - INFO - Generated food item: Deluxe Malai Boti by Chef 67302211a1fb347cf2bf959b, Id: 67302212a1fb347cf2bf966e
+2024-11-10 08:01:38,788 - INFO - Generated food item: Deluxe Karahi by Chef 67302211a1fb347cf2bf959b, Id: 67302212a1fb347cf2bf966f
+2024-11-10 08:01:38,789 - INFO - Generated food item: Classic Karahi by Chef 67302211a1fb347cf2bf95aa, Id: 67302212a1fb347cf2bf9670
+2024-11-10 08:01:38,789 - INFO - Generated food item: Classic Chapli Kebab by Chef 67302211a1fb347cf2bf9598, Id: 67302212a1fb347cf2bf9671
+2024-11-10 08:01:38,789 - INFO - Generated food item: Deluxe Shawarma by Chef 67302211a1fb347cf2bf957b, Id: 67302212a1fb347cf2bf9672
+2024-11-10 08:01:43,285 - INFO - Generating and uploading customers...
+2024-11-10 08:01:43,287 - INFO - Generated customer: Email - hamptonstephanie@example.org, Password - password123, ID - 67302217a1fb347cf2bf9673
+2024-11-10 08:01:43,288 - INFO - Generated customer: Email - griffinheather@example.net, Password - password123, ID - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:43,289 - INFO - Generated customer: Email - jamessaunders@example.com, Password - password123, ID - 67302217a1fb347cf2bf9675
+2024-11-10 08:01:43,290 - INFO - Generated customer: Email - nathaniel91@example.net, Password - password123, ID - 67302217a1fb347cf2bf9676
+2024-11-10 08:01:43,291 - INFO - Generated customer: Email - xsanchez@example.com, Password - password123, ID - 67302217a1fb347cf2bf9677
+2024-11-10 08:01:43,291 - INFO - Generated customer: Email - christine36@example.org, Password - password123, ID - 67302217a1fb347cf2bf9678
+2024-11-10 08:01:43,291 - INFO - Generated customer: Email - fordpaul@example.org, Password - password123, ID - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:43,292 - INFO - Generated customer: Email - hgonzalez@example.com, Password - password123, ID - 67302217a1fb347cf2bf967a
+2024-11-10 08:01:43,292 - INFO - Generated customer: Email - wpierce@example.org, Password - password123, ID - 67302217a1fb347cf2bf967b
+2024-11-10 08:01:43,292 - INFO - Generated customer: Email - rebecca28@example.com, Password - password123, ID - 67302217a1fb347cf2bf967c
+2024-11-10 08:01:43,292 - INFO - Generated customer: Email - elliottjames@example.org, Password - password123, ID - 67302217a1fb347cf2bf967d
+2024-11-10 08:01:43,293 - INFO - Generated customer: Email - natalie15@example.com, Password - password123, ID - 67302217a1fb347cf2bf967e
+2024-11-10 08:01:43,293 - INFO - Generated customer: Email - jamesflowers@example.com, Password - password123, ID - 67302217a1fb347cf2bf967f
+2024-11-10 08:01:43,293 - INFO - Generated customer: Email - susan49@example.com, Password - password123, ID - 67302217a1fb347cf2bf9680
+2024-11-10 08:01:43,293 - INFO - Generated customer: Email - zmorton@example.com, Password - password123, ID - 67302217a1fb347cf2bf9681
+2024-11-10 08:01:43,294 - INFO - Generated customer: Email - camerondanielle@example.org, Password - password123, ID - 67302217a1fb347cf2bf9682
+2024-11-10 08:01:43,294 - INFO - Generated customer: Email - cwilliams@example.net, Password - password123, ID - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:43,294 - INFO - Generated customer: Email - christopherwalker@example.net, Password - password123, ID - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:43,295 - INFO - Generated customer: Email - ejohnson@example.com, Password - password123, ID - 67302217a1fb347cf2bf9685
+2024-11-10 08:01:43,295 - INFO - Generated customer: Email - stevenedwards@example.net, Password - password123, ID - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:43,295 - INFO - Generated customer: Email - krodriguez@example.org, Password - password123, ID - 67302217a1fb347cf2bf9687
+2024-11-10 08:01:43,296 - INFO - Generated customer: Email - smithmichael@example.org, Password - password123, ID - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:43,296 - INFO - Generated customer: Email - ljohnson@example.com, Password - password123, ID - 67302217a1fb347cf2bf9689
+2024-11-10 08:01:43,297 - INFO - Generated customer: Email - selena94@example.org, Password - password123, ID - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:43,297 - INFO - Generated customer: Email - bishopkristin@example.org, Password - password123, ID - 67302217a1fb347cf2bf968b
+2024-11-10 08:01:43,297 - INFO - Generated customer: Email - sharon61@example.net, Password - password123, ID - 67302217a1fb347cf2bf968c
+2024-11-10 08:01:43,298 - INFO - Generated customer: Email - brianmartinez@example.org, Password - password123, ID - 67302217a1fb347cf2bf968d
+2024-11-10 08:01:43,298 - INFO - Generated customer: Email - samanthawalker@example.org, Password - password123, ID - 67302217a1fb347cf2bf968e
+2024-11-10 08:01:43,299 - INFO - Generated customer: Email - edwardroman@example.net, Password - password123, ID - 67302217a1fb347cf2bf968f
+2024-11-10 08:01:43,299 - INFO - Generated customer: Email - heatherjones@example.net, Password - password123, ID - 67302217a1fb347cf2bf9690
+2024-11-10 08:01:43,299 - INFO - Generated customer: Email - catherine79@example.com, Password - password123, ID - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:43,300 - INFO - Generated customer: Email - dburton@example.net, Password - password123, ID - 67302217a1fb347cf2bf9692
+2024-11-10 08:01:43,300 - INFO - Generated customer: Email - dawnmiller@example.org, Password - password123, ID - 67302217a1fb347cf2bf9693
+2024-11-10 08:01:43,300 - INFO - Generated customer: Email - ellenweber@example.org, Password - password123, ID - 67302217a1fb347cf2bf9694
+2024-11-10 08:01:43,301 - INFO - Generated customer: Email - xrivera@example.com, Password - password123, ID - 67302217a1fb347cf2bf9695
+2024-11-10 08:01:43,301 - INFO - Generated customer: Email - phyllisvargas@example.com, Password - password123, ID - 67302217a1fb347cf2bf9696
+2024-11-10 08:01:43,301 - INFO - Generated customer: Email - samantha85@example.net, Password - password123, ID - 67302217a1fb347cf2bf9697
+2024-11-10 08:01:43,302 - INFO - Generated customer: Email - john72@example.org, Password - password123, ID - 67302217a1fb347cf2bf9698
+2024-11-10 08:01:43,302 - INFO - Generated customer: Email - courtneypearson@example.net, Password - password123, ID - 67302217a1fb347cf2bf9699
+2024-11-10 08:01:43,302 - INFO - Generated customer: Email - aprilmartin@example.net, Password - password123, ID - 67302217a1fb347cf2bf969a
+2024-11-10 08:01:43,303 - INFO - Generated customer: Email - catherine23@example.com, Password - password123, ID - 67302217a1fb347cf2bf969b
+2024-11-10 08:01:43,303 - INFO - Generated customer: Email - nmiller@example.net, Password - password123, ID - 67302217a1fb347cf2bf969c
+2024-11-10 08:01:43,303 - INFO - Generated customer: Email - jacobcamacho@example.com, Password - password123, ID - 67302217a1fb347cf2bf969d
+2024-11-10 08:01:43,303 - INFO - Generated customer: Email - mooneyamanda@example.com, Password - password123, ID - 67302217a1fb347cf2bf969e
+2024-11-10 08:01:43,304 - INFO - Generated customer: Email - paula85@example.org, Password - password123, ID - 67302217a1fb347cf2bf969f
+2024-11-10 08:01:43,304 - INFO - Generated customer: Email - igarcia@example.com, Password - password123, ID - 67302217a1fb347cf2bf96a0
+2024-11-10 08:01:43,304 - INFO - Generated customer: Email - joshua14@example.com, Password - password123, ID - 67302217a1fb347cf2bf96a1
+2024-11-10 08:01:43,305 - INFO - Generated customer: Email - mwilliams@example.org, Password - password123, ID - 67302217a1fb347cf2bf96a2
+2024-11-10 08:01:43,305 - INFO - Generated customer: Email - andersondana@example.org, Password - password123, ID - 67302217a1fb347cf2bf96a3
+2024-11-10 08:01:43,306 - INFO - Generated customer: Email - patriciarichards@example.net, Password - password123, ID - 67302217a1fb347cf2bf96a4
+2024-11-10 08:01:43,306 - INFO - Generated customer: Email - fharris@example.org, Password - password123, ID - 67302217a1fb347cf2bf96a5
+2024-11-10 08:01:43,306 - INFO - Generated customer: Email - tiffanyberger@example.net, Password - password123, ID - 67302217a1fb347cf2bf96a6
+2024-11-10 08:01:43,307 - INFO - Generated customer: Email - wrightterri@example.net, Password - password123, ID - 67302217a1fb347cf2bf96a7
+2024-11-10 08:01:43,307 - INFO - Generated customer: Email - allison97@example.net, Password - password123, ID - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:43,308 - INFO - Generated customer: Email - bradleymoss@example.net, Password - password123, ID - 67302217a1fb347cf2bf96a9
+2024-11-10 08:01:43,308 - INFO - Generated customer: Email - leonardswanson@example.org, Password - password123, ID - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:43,308 - INFO - Generated customer: Email - stevenjones@example.com, Password - password123, ID - 67302217a1fb347cf2bf96ab
+2024-11-10 08:01:43,309 - INFO - Generated customer: Email - luke46@example.net, Password - password123, ID - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:43,309 - INFO - Generated customer: Email - pgreen@example.com, Password - password123, ID - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:43,309 - INFO - Generated customer: Email - christy20@example.org, Password - password123, ID - 67302217a1fb347cf2bf96ae
+2024-11-10 08:01:43,309 - INFO - Generated customer: Email - nicholskevin@example.org, Password - password123, ID - 67302217a1fb347cf2bf96af
+2024-11-10 08:01:43,310 - INFO - Generated customer: Email - megannguyen@example.com, Password - password123, ID - 67302217a1fb347cf2bf96b0
+2024-11-10 08:01:43,310 - INFO - Generated customer: Email - meyersmelissa@example.net, Password - password123, ID - 67302217a1fb347cf2bf96b1
+2024-11-10 08:01:43,310 - INFO - Generated customer: Email - ylloyd@example.com, Password - password123, ID - 67302217a1fb347cf2bf96b2
+2024-11-10 08:01:43,310 - INFO - Generated customer: Email - mary11@example.org, Password - password123, ID - 67302217a1fb347cf2bf96b3
+2024-11-10 08:01:43,311 - INFO - Generated customer: Email - tpetty@example.com, Password - password123, ID - 67302217a1fb347cf2bf96b4
+2024-11-10 08:01:43,311 - INFO - Generated customer: Email - hunter29@example.com, Password - password123, ID - 67302217a1fb347cf2bf96b5
+2024-11-10 08:01:43,311 - INFO - Generated customer: Email - bergerjoseph@example.org, Password - password123, ID - 67302217a1fb347cf2bf96b6
+2024-11-10 08:01:43,311 - INFO - Generated customer: Email - carrie94@example.org, Password - password123, ID - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:43,312 - INFO - Generated customer: Email - amber28@example.org, Password - password123, ID - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:43,312 - INFO - Generated customer: Email - tammygraham@example.net, Password - password123, ID - 67302217a1fb347cf2bf96b9
+2024-11-10 08:01:43,312 - INFO - Generated customer: Email - garciasteven@example.net, Password - password123, ID - 67302217a1fb347cf2bf96ba
+2024-11-10 08:01:43,313 - INFO - Generated customer: Email - marybaker@example.org, Password - password123, ID - 67302217a1fb347cf2bf96bb
+2024-11-10 08:01:43,313 - INFO - Generated customer: Email - richardpruitt@example.com, Password - password123, ID - 67302217a1fb347cf2bf96bc
+2024-11-10 08:01:43,313 - INFO - Generated customer: Email - langgina@example.com, Password - password123, ID - 67302217a1fb347cf2bf96bd
+2024-11-10 08:01:43,314 - INFO - Generated customer: Email - jaredmercado@example.org, Password - password123, ID - 67302217a1fb347cf2bf96be
+2024-11-10 08:01:43,314 - INFO - Generated customer: Email - stephanie82@example.org, Password - password123, ID - 67302217a1fb347cf2bf96bf
+2024-11-10 08:01:43,314 - INFO - Generated customer: Email - colenicholas@example.org, Password - password123, ID - 67302217a1fb347cf2bf96c0
+2024-11-10 08:01:43,315 - INFO - Generated customer: Email - alyssa08@example.com, Password - password123, ID - 67302217a1fb347cf2bf96c1
+2024-11-10 08:01:43,315 - INFO - Generated customer: Email - matthew75@example.net, Password - password123, ID - 67302217a1fb347cf2bf96c2
+2024-11-10 08:01:43,315 - INFO - Generated customer: Email - jeffrey00@example.com, Password - password123, ID - 67302217a1fb347cf2bf96c3
+2024-11-10 08:01:43,316 - INFO - Generated customer: Email - helenhill@example.org, Password - password123, ID - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:43,316 - INFO - Generated customer: Email - perezlisa@example.org, Password - password123, ID - 67302217a1fb347cf2bf96c5
+2024-11-10 08:01:43,316 - INFO - Generated customer: Email - johnbarrett@example.com, Password - password123, ID - 67302217a1fb347cf2bf96c6
+2024-11-10 08:01:43,317 - INFO - Generated customer: Email - wesleythompson@example.org, Password - password123, ID - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:43,317 - INFO - Generated customer: Email - gperry@example.org, Password - password123, ID - 67302217a1fb347cf2bf96c8
+2024-11-10 08:01:43,317 - INFO - Generated customer: Email - yatesronald@example.org, Password - password123, ID - 67302217a1fb347cf2bf96c9
+2024-11-10 08:01:43,318 - INFO - Generated customer: Email - moralesdebra@example.net, Password - password123, ID - 67302217a1fb347cf2bf96ca
+2024-11-10 08:01:43,318 - INFO - Generated customer: Email - teresaharris@example.net, Password - password123, ID - 67302217a1fb347cf2bf96cb
+2024-11-10 08:01:43,318 - INFO - Generated customer: Email - rodriguezgregory@example.org, Password - password123, ID - 67302217a1fb347cf2bf96cc
+2024-11-10 08:01:43,318 - INFO - Generated customer: Email - kimjoseph@example.com, Password - password123, ID - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:43,319 - INFO - Generated customer: Email - kristy68@example.org, Password - password123, ID - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:43,319 - INFO - Generated customer: Email - michaelkim@example.net, Password - password123, ID - 67302217a1fb347cf2bf96cf
+2024-11-10 08:01:43,320 - INFO - Generated customer: Email - debbie43@example.com, Password - password123, ID - 67302217a1fb347cf2bf96d0
+2024-11-10 08:01:43,320 - INFO - Generated customer: Email - deborah55@example.net, Password - password123, ID - 67302217a1fb347cf2bf96d1
+2024-11-10 08:01:43,320 - INFO - Generated customer: Email - timothy70@example.net, Password - password123, ID - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:43,321 - INFO - Generated customer: Email - whitemichelle@example.net, Password - password123, ID - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:43,321 - INFO - Generated customer: Email - ebennett@example.net, Password - password123, ID - 67302217a1fb347cf2bf96d4
+2024-11-10 08:01:43,322 - INFO - Generated customer: Email - shawn73@example.net, Password - password123, ID - 67302217a1fb347cf2bf96d5
+2024-11-10 08:01:43,322 - INFO - Generated customer: Email - troy55@example.com, Password - password123, ID - 67302217a1fb347cf2bf96d6
+2024-11-10 08:01:45,435 - INFO - Generating and uploading orders...
+2024-11-10 08:01:45,437 - INFO - Generated order: ID - 67302219a1fb347cf2bf96d7, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,439 - INFO - Generated order: ID - 67302219a1fb347cf2bf96d8, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,440 - INFO - Generated order: ID - 67302219a1fb347cf2bf96d9, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,442 - INFO - Generated order: ID - 67302219a1fb347cf2bf96da, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,443 - INFO - Generated order: ID - 67302219a1fb347cf2bf96db, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,445 - INFO - Generated order: ID - 67302219a1fb347cf2bf96dc, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,447 - INFO - Generated order: ID - 67302219a1fb347cf2bf96dd, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,447 - INFO - Generated order: ID - 67302219a1fb347cf2bf96de, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,448 - INFO - Generated order: ID - 67302219a1fb347cf2bf96df, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,448 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e0, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,449 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e1, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,449 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e2, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,450 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e3, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,450 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e4, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,451 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e5, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,452 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e6, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,453 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e7, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,453 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e8, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,453 - INFO - Generated order: ID - 67302219a1fb347cf2bf96e9, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,454 - INFO - Generated order: ID - 67302219a1fb347cf2bf96ea, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,455 - INFO - Generated order: ID - 67302219a1fb347cf2bf96eb, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,455 - INFO - Generated order: ID - 67302219a1fb347cf2bf96ec, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,456 - INFO - Generated order: ID - 67302219a1fb347cf2bf96ed, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,456 - INFO - Generated order: ID - 67302219a1fb347cf2bf96ee, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,457 - INFO - Generated order: ID - 67302219a1fb347cf2bf96ef, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,457 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f0, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,458 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f1, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,458 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f2, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,459 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f3, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,459 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f4, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,460 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f5, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,460 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f6, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,461 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f7, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,461 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f8, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,462 - INFO - Generated order: ID - 67302219a1fb347cf2bf96f9, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,462 - INFO - Generated order: ID - 67302219a1fb347cf2bf96fa, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,463 - INFO - Generated order: ID - 67302219a1fb347cf2bf96fb, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,464 - INFO - Generated order: ID - 67302219a1fb347cf2bf96fc, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,464 - INFO - Generated order: ID - 67302219a1fb347cf2bf96fd, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,465 - INFO - Generated order: ID - 67302219a1fb347cf2bf96fe, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,465 - INFO - Generated order: ID - 67302219a1fb347cf2bf96ff, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,466 - INFO - Generated order: ID - 67302219a1fb347cf2bf9700, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,467 - INFO - Generated order: ID - 67302219a1fb347cf2bf9701, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,467 - INFO - Generated order: ID - 67302219a1fb347cf2bf9702, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,468 - INFO - Generated order: ID - 67302219a1fb347cf2bf9703, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,468 - INFO - Generated order: ID - 67302219a1fb347cf2bf9704, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,469 - INFO - Generated order: ID - 67302219a1fb347cf2bf9705, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,469 - INFO - Generated order: ID - 67302219a1fb347cf2bf9706, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,470 - INFO - Generated order: ID - 67302219a1fb347cf2bf9707, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,471 - INFO - Generated order: ID - 67302219a1fb347cf2bf9708, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,471 - INFO - Generated order: ID - 67302219a1fb347cf2bf9709, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,472 - INFO - Generated order: ID - 67302219a1fb347cf2bf970a, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,472 - INFO - Generated order: ID - 67302219a1fb347cf2bf970b, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,473 - INFO - Generated order: ID - 67302219a1fb347cf2bf970c, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,474 - INFO - Generated order: ID - 67302219a1fb347cf2bf970d, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,474 - INFO - Generated order: ID - 67302219a1fb347cf2bf970e, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,475 - INFO - Generated order: ID - 67302219a1fb347cf2bf970f, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,475 - INFO - Generated order: ID - 67302219a1fb347cf2bf9710, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,476 - INFO - Generated order: ID - 67302219a1fb347cf2bf9711, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,476 - INFO - Generated order: ID - 67302219a1fb347cf2bf9712, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,477 - INFO - Generated order: ID - 67302219a1fb347cf2bf9713, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,477 - INFO - Generated order: ID - 67302219a1fb347cf2bf9714, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,478 - INFO - Generated order: ID - 67302219a1fb347cf2bf9715, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,478 - INFO - Generated order: ID - 67302219a1fb347cf2bf9716, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,479 - INFO - Generated order: ID - 67302219a1fb347cf2bf9717, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,479 - INFO - Generated order: ID - 67302219a1fb347cf2bf9718, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,480 - INFO - Generated order: ID - 67302219a1fb347cf2bf9719, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,480 - INFO - Generated order: ID - 67302219a1fb347cf2bf971a, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,481 - INFO - Generated order: ID - 67302219a1fb347cf2bf971b, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,481 - INFO - Generated order: ID - 67302219a1fb347cf2bf971c, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,482 - INFO - Generated order: ID - 67302219a1fb347cf2bf971d, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,482 - INFO - Generated order: ID - 67302219a1fb347cf2bf971e, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,483 - INFO - Generated order: ID - 67302219a1fb347cf2bf971f, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,483 - INFO - Generated order: ID - 67302219a1fb347cf2bf9720, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,484 - INFO - Generated order: ID - 67302219a1fb347cf2bf9721, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,484 - INFO - Generated order: ID - 67302219a1fb347cf2bf9722, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,485 - INFO - Generated order: ID - 67302219a1fb347cf2bf9723, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,485 - INFO - Generated order: ID - 67302219a1fb347cf2bf9724, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,486 - INFO - Generated order: ID - 67302219a1fb347cf2bf9725, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,486 - INFO - Generated order: ID - 67302219a1fb347cf2bf9726, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,487 - INFO - Generated order: ID - 67302219a1fb347cf2bf9727, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,488 - INFO - Generated order: ID - 67302219a1fb347cf2bf9728, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,488 - INFO - Generated order: ID - 67302219a1fb347cf2bf9729, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,489 - INFO - Generated order: ID - 67302219a1fb347cf2bf972a, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,489 - INFO - Generated order: ID - 67302219a1fb347cf2bf972b, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,490 - INFO - Generated order: ID - 67302219a1fb347cf2bf972c, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,491 - INFO - Generated order: ID - 67302219a1fb347cf2bf972d, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,491 - INFO - Generated order: ID - 67302219a1fb347cf2bf972e, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,492 - INFO - Generated order: ID - 67302219a1fb347cf2bf972f, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,492 - INFO - Generated order: ID - 67302219a1fb347cf2bf9730, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,493 - INFO - Generated order: ID - 67302219a1fb347cf2bf9731, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,493 - INFO - Generated order: ID - 67302219a1fb347cf2bf9732, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,494 - INFO - Generated order: ID - 67302219a1fb347cf2bf9733, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,494 - INFO - Generated order: ID - 67302219a1fb347cf2bf9734, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,495 - INFO - Generated order: ID - 67302219a1fb347cf2bf9735, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,495 - INFO - Generated order: ID - 67302219a1fb347cf2bf9736, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,496 - INFO - Generated order: ID - 67302219a1fb347cf2bf9737, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,497 - INFO - Generated order: ID - 67302219a1fb347cf2bf9738, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,497 - INFO - Generated order: ID - 67302219a1fb347cf2bf9739, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,498 - INFO - Generated order: ID - 67302219a1fb347cf2bf973a, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,498 - INFO - Generated order: ID - 67302219a1fb347cf2bf973b, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,499 - INFO - Generated order: ID - 67302219a1fb347cf2bf973c, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,499 - INFO - Generated order: ID - 67302219a1fb347cf2bf973d, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,500 - INFO - Generated order: ID - 67302219a1fb347cf2bf973e, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,500 - INFO - Generated order: ID - 67302219a1fb347cf2bf973f, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,501 - INFO - Generated order: ID - 67302219a1fb347cf2bf9740, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,501 - INFO - Generated order: ID - 67302219a1fb347cf2bf9741, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,502 - INFO - Generated order: ID - 67302219a1fb347cf2bf9742, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,502 - INFO - Generated order: ID - 67302219a1fb347cf2bf9743, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,503 - INFO - Generated order: ID - 67302219a1fb347cf2bf9744, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,503 - INFO - Generated order: ID - 67302219a1fb347cf2bf9745, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,504 - INFO - Generated order: ID - 67302219a1fb347cf2bf9746, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,505 - INFO - Generated order: ID - 67302219a1fb347cf2bf9747, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,505 - INFO - Generated order: ID - 67302219a1fb347cf2bf9748, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,506 - INFO - Generated order: ID - 67302219a1fb347cf2bf9749, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,506 - INFO - Generated order: ID - 67302219a1fb347cf2bf974a, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,507 - INFO - Generated order: ID - 67302219a1fb347cf2bf974b, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,507 - INFO - Generated order: ID - 67302219a1fb347cf2bf974c, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,508 - INFO - Generated order: ID - 67302219a1fb347cf2bf974d, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,508 - INFO - Generated order: ID - 67302219a1fb347cf2bf974e, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,509 - INFO - Generated order: ID - 67302219a1fb347cf2bf974f, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,509 - INFO - Generated order: ID - 67302219a1fb347cf2bf9750, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,509 - INFO - Generated order: ID - 67302219a1fb347cf2bf9751, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,510 - INFO - Generated order: ID - 67302219a1fb347cf2bf9752, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,510 - INFO - Generated order: ID - 67302219a1fb347cf2bf9753, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,511 - INFO - Generated order: ID - 67302219a1fb347cf2bf9754, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,511 - INFO - Generated order: ID - 67302219a1fb347cf2bf9755, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,512 - INFO - Generated order: ID - 67302219a1fb347cf2bf9756, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,513 - INFO - Generated order: ID - 67302219a1fb347cf2bf9757, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,513 - INFO - Generated order: ID - 67302219a1fb347cf2bf9758, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,514 - INFO - Generated order: ID - 67302219a1fb347cf2bf9759, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,514 - INFO - Generated order: ID - 67302219a1fb347cf2bf975a, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,515 - INFO - Generated order: ID - 67302219a1fb347cf2bf975b, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,516 - INFO - Generated order: ID - 67302219a1fb347cf2bf975c, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,516 - INFO - Generated order: ID - 67302219a1fb347cf2bf975d, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,517 - INFO - Generated order: ID - 67302219a1fb347cf2bf975e, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,517 - INFO - Generated order: ID - 67302219a1fb347cf2bf975f, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,518 - INFO - Generated order: ID - 67302219a1fb347cf2bf9760, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,519 - INFO - Generated order: ID - 67302219a1fb347cf2bf9761, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,519 - INFO - Generated order: ID - 67302219a1fb347cf2bf9762, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,520 - INFO - Generated order: ID - 67302219a1fb347cf2bf9763, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,520 - INFO - Generated order: ID - 67302219a1fb347cf2bf9764, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,521 - INFO - Generated order: ID - 67302219a1fb347cf2bf9765, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,521 - INFO - Generated order: ID - 67302219a1fb347cf2bf9766, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,522 - INFO - Generated order: ID - 67302219a1fb347cf2bf9767, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,523 - INFO - Generated order: ID - 67302219a1fb347cf2bf9768, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,524 - INFO - Generated order: ID - 67302219a1fb347cf2bf9769, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,524 - INFO - Generated order: ID - 67302219a1fb347cf2bf976a, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,525 - INFO - Generated order: ID - 67302219a1fb347cf2bf976b, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,525 - INFO - Generated order: ID - 67302219a1fb347cf2bf976c, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,526 - INFO - Generated order: ID - 67302219a1fb347cf2bf976d, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,526 - INFO - Generated order: ID - 67302219a1fb347cf2bf976e, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,527 - INFO - Generated order: ID - 67302219a1fb347cf2bf976f, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,527 - INFO - Generated order: ID - 67302219a1fb347cf2bf9770, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,528 - INFO - Generated order: ID - 67302219a1fb347cf2bf9771, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,528 - INFO - Generated order: ID - 67302219a1fb347cf2bf9772, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,529 - INFO - Generated order: ID - 67302219a1fb347cf2bf9773, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,530 - INFO - Generated order: ID - 67302219a1fb347cf2bf9774, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,530 - INFO - Generated order: ID - 67302219a1fb347cf2bf9775, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,530 - INFO - Generated order: ID - 67302219a1fb347cf2bf9776, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,531 - INFO - Generated order: ID - 67302219a1fb347cf2bf9777, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,532 - INFO - Generated order: ID - 67302219a1fb347cf2bf9778, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,532 - INFO - Generated order: ID - 67302219a1fb347cf2bf9779, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,533 - INFO - Generated order: ID - 67302219a1fb347cf2bf977a, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,533 - INFO - Generated order: ID - 67302219a1fb347cf2bf977b, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,534 - INFO - Generated order: ID - 67302219a1fb347cf2bf977c, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,534 - INFO - Generated order: ID - 67302219a1fb347cf2bf977d, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,535 - INFO - Generated order: ID - 67302219a1fb347cf2bf977e, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,535 - INFO - Generated order: ID - 67302219a1fb347cf2bf977f, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,536 - INFO - Generated order: ID - 67302219a1fb347cf2bf9780, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,536 - INFO - Generated order: ID - 67302219a1fb347cf2bf9781, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,537 - INFO - Generated order: ID - 67302219a1fb347cf2bf9782, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,538 - INFO - Generated order: ID - 67302219a1fb347cf2bf9783, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,539 - INFO - Generated order: ID - 67302219a1fb347cf2bf9784, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,539 - INFO - Generated order: ID - 67302219a1fb347cf2bf9785, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,540 - INFO - Generated order: ID - 67302219a1fb347cf2bf9786, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,540 - INFO - Generated order: ID - 67302219a1fb347cf2bf9787, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,541 - INFO - Generated order: ID - 67302219a1fb347cf2bf9788, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,541 - INFO - Generated order: ID - 67302219a1fb347cf2bf9789, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,542 - INFO - Generated order: ID - 67302219a1fb347cf2bf978a, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,542 - INFO - Generated order: ID - 67302219a1fb347cf2bf978b, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,543 - INFO - Generated order: ID - 67302219a1fb347cf2bf978c, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,543 - INFO - Generated order: ID - 67302219a1fb347cf2bf978d, Status - ONGOING, Payment Type - COD
+2024-11-10 08:01:45,544 - INFO - Generated order: ID - 67302219a1fb347cf2bf978e, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,544 - INFO - Generated order: ID - 67302219a1fb347cf2bf978f, Status - SHIPPED, Payment Type - CARD
+2024-11-10 08:01:45,545 - INFO - Generated order: ID - 67302219a1fb347cf2bf9790, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,545 - INFO - Generated order: ID - 67302219a1fb347cf2bf9791, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,546 - INFO - Generated order: ID - 67302219a1fb347cf2bf9792, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,546 - INFO - Generated order: ID - 67302219a1fb347cf2bf9793, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,547 - INFO - Generated order: ID - 67302219a1fb347cf2bf9794, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,547 - INFO - Generated order: ID - 67302219a1fb347cf2bf9795, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,548 - INFO - Generated order: ID - 67302219a1fb347cf2bf9796, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,548 - INFO - Generated order: ID - 67302219a1fb347cf2bf9797, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,549 - INFO - Generated order: ID - 67302219a1fb347cf2bf9798, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,549 - INFO - Generated order: ID - 67302219a1fb347cf2bf9799, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,550 - INFO - Generated order: ID - 67302219a1fb347cf2bf979a, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,550 - INFO - Generated order: ID - 67302219a1fb347cf2bf979b, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,551 - INFO - Generated order: ID - 67302219a1fb347cf2bf979c, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,551 - INFO - Generated order: ID - 67302219a1fb347cf2bf979d, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,552 - INFO - Generated order: ID - 67302219a1fb347cf2bf979e, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,552 - INFO - Generated order: ID - 67302219a1fb347cf2bf979f, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,553 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a0, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,553 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a1, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,554 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a2, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,555 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a3, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,555 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a4, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,556 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a5, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,556 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a6, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,557 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a7, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,557 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a8, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,558 - INFO - Generated order: ID - 67302219a1fb347cf2bf97a9, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,558 - INFO - Generated order: ID - 67302219a1fb347cf2bf97aa, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,559 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ab, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,559 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ac, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,560 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ad, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,560 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ae, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,561 - INFO - Generated order: ID - 67302219a1fb347cf2bf97af, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,561 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b0, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,562 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b1, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,562 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b2, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,563 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b3, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,563 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b4, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,564 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b5, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,564 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b6, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,564 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b7, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,565 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b8, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,565 - INFO - Generated order: ID - 67302219a1fb347cf2bf97b9, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,566 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ba, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,566 - INFO - Generated order: ID - 67302219a1fb347cf2bf97bb, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,567 - INFO - Generated order: ID - 67302219a1fb347cf2bf97bc, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,567 - INFO - Generated order: ID - 67302219a1fb347cf2bf97bd, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,568 - INFO - Generated order: ID - 67302219a1fb347cf2bf97be, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,568 - INFO - Generated order: ID - 67302219a1fb347cf2bf97bf, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,569 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c0, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,569 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c1, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,570 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c2, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,571 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c3, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,571 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c4, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,572 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c5, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,572 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c6, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,573 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c7, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,573 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c8, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,574 - INFO - Generated order: ID - 67302219a1fb347cf2bf97c9, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,574 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ca, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,575 - INFO - Generated order: ID - 67302219a1fb347cf2bf97cb, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,575 - INFO - Generated order: ID - 67302219a1fb347cf2bf97cc, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,576 - INFO - Generated order: ID - 67302219a1fb347cf2bf97cd, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,577 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ce, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,577 - INFO - Generated order: ID - 67302219a1fb347cf2bf97cf, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,578 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d0, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,578 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d1, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,579 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d2, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,580 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d3, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,580 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d4, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,581 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d5, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,581 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d6, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,582 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d7, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,582 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d8, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,583 - INFO - Generated order: ID - 67302219a1fb347cf2bf97d9, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,583 - INFO - Generated order: ID - 67302219a1fb347cf2bf97da, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,584 - INFO - Generated order: ID - 67302219a1fb347cf2bf97db, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,584 - INFO - Generated order: ID - 67302219a1fb347cf2bf97dc, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,585 - INFO - Generated order: ID - 67302219a1fb347cf2bf97dd, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,585 - INFO - Generated order: ID - 67302219a1fb347cf2bf97de, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,586 - INFO - Generated order: ID - 67302219a1fb347cf2bf97df, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,587 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e0, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,587 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e1, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,588 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e2, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,589 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e3, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,590 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e4, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,590 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e5, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,591 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e6, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,591 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e7, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,592 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e8, Status - PLACED, Payment Type - COD
+2024-11-10 08:01:45,592 - INFO - Generated order: ID - 67302219a1fb347cf2bf97e9, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,593 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ea, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,593 - INFO - Generated order: ID - 67302219a1fb347cf2bf97eb, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,594 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ec, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,594 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ed, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,595 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ee, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,596 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ef, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,596 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f0, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,597 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f1, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,598 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f2, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,598 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f3, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,599 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f4, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,599 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f5, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,600 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f6, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,601 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f7, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,601 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f8, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,602 - INFO - Generated order: ID - 67302219a1fb347cf2bf97f9, Status - CANCELLED, Payment Type - COD
+2024-11-10 08:01:45,603 - INFO - Generated order: ID - 67302219a1fb347cf2bf97fa, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,603 - INFO - Generated order: ID - 67302219a1fb347cf2bf97fb, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,604 - INFO - Generated order: ID - 67302219a1fb347cf2bf97fc, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,605 - INFO - Generated order: ID - 67302219a1fb347cf2bf97fd, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,606 - INFO - Generated order: ID - 67302219a1fb347cf2bf97fe, Status - COMPLETE, Payment Type - COD
+2024-11-10 08:01:45,606 - INFO - Generated order: ID - 67302219a1fb347cf2bf97ff, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,607 - INFO - Generated order: ID - 67302219a1fb347cf2bf9800, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:45,607 - INFO - Generated order: ID - 67302219a1fb347cf2bf9801, Status - CANCELLED, Payment Type - CARD
+2024-11-10 08:01:45,608 - INFO - Generated order: ID - 67302219a1fb347cf2bf9802, Status - COMPLETE, Payment Type - CARD
+2024-11-10 08:01:52,603 - INFO - Generating and uploading reviews...
+2024-11-10 08:01:52,603 - INFO - Generated review for food 67302212a1fb347cf2bf966f: Rating - 5, Reviewer - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:52,603 - INFO - Generated review for food 67302212a1fb347cf2bf9625: Rating - 5, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,603 - INFO - Generated review for food 67302212a1fb347cf2bf95de: Rating - 5, Reviewer - 67302217a1fb347cf2bf9678
+2024-11-10 08:01:52,603 - INFO - Generated review for food 67302212a1fb347cf2bf9616: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b6
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9656: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c8
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9646: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a6
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 5, Reviewer - 67302217a1fb347cf2bf96bc
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9617: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95d3: Rating - 3, Reviewer - 67302217a1fb347cf2bf9695
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95e1: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c8
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95e7: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9661: Rating - 5, Reviewer - 67302217a1fb347cf2bf969a
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95b1: Rating - 3, Reviewer - 67302217a1fb347cf2bf969b
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9623: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9612: Rating - 4, Reviewer - 67302217a1fb347cf2bf969e
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95fa: Rating - 4, Reviewer - 67302217a1fb347cf2bf9673
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95c8: Rating - 4, Reviewer - 67302217a1fb347cf2bf96bd
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf9643: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf962d: Rating - 2, Reviewer - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:52,604 - INFO - Generated review for food 67302212a1fb347cf2bf95fb: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b3
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95ee: Rating - 5, Reviewer - 67302217a1fb347cf2bf96bd
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf963d: Rating - 5, Reviewer - 67302217a1fb347cf2bf9696
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf9651: Rating - 3, Reviewer - 67302217a1fb347cf2bf9694
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf9652: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c2
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf9652: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95b9: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95c7: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b0
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95c1: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95d2: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d4
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95c6: Rating - 3, Reviewer - 67302217a1fb347cf2bf96a4
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95cd: Rating - 5, Reviewer - 67302217a1fb347cf2bf9677
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95e1: Rating - 5, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95f1: Rating - 5, Reviewer - 67302217a1fb347cf2bf9678
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf9639: Rating - 3, Reviewer - 67302217a1fb347cf2bf968d
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf95f5: Rating - 4, Reviewer - 67302217a1fb347cf2bf9698
+2024-11-10 08:01:52,605 - INFO - Generated review for food 67302212a1fb347cf2bf9640: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf95e0: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c6
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf95d8: Rating - 5, Reviewer - 67302217a1fb347cf2bf9687
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf9664: Rating - 4, Reviewer - 67302217a1fb347cf2bf96cb
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf966b: Rating - 3, Reviewer - 67302217a1fb347cf2bf9690
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf966f: Rating - 4, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf9647: Rating - 2, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf95f8: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b5
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf95fc: Rating - 5, Reviewer - 67302217a1fb347cf2bf9675
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf966e: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c2
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf9617: Rating - 3, Reviewer - 67302217a1fb347cf2bf9678
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf95b7: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c5
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf962c: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf9654: Rating - 4, Reviewer - 67302217a1fb347cf2bf967f
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf9618: Rating - 5, Reviewer - 67302217a1fb347cf2bf9699
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf961e: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c6
+2024-11-10 08:01:52,606 - INFO - Generated review for food 67302212a1fb347cf2bf95d0: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9671: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9602: Rating - 1, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf960f: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ca
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9667: Rating - 2, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9622: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ba
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9665: Rating - 4, Reviewer - 67302217a1fb347cf2bf9682
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf966e: Rating - 4, Reviewer - 67302217a1fb347cf2bf9685
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf964e: Rating - 4, Reviewer - 67302217a1fb347cf2bf969d
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9619: Rating - 2, Reviewer - 67302217a1fb347cf2bf9694
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9620: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d5
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9607: Rating - 3, Reviewer - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf963e: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9620: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d1
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf95fe: Rating - 5, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf95c9: Rating - 3, Reviewer - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9656: Rating - 2, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9667: Rating - 4, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,607 - INFO - Generated review for food 67302212a1fb347cf2bf9663: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf9667: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a1
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf9613: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf961e: Rating - 5, Reviewer - 67302217a1fb347cf2bf967b
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf963c: Rating - 5, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf9648: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf95b7: Rating - 5, Reviewer - 67302217a1fb347cf2bf96cb
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf95e5: Rating - 5, Reviewer - 67302217a1fb347cf2bf967e
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf95e7: Rating - 5, Reviewer - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf95f5: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf95ba: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf963c: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf965c: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d6
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf9667: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c1
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf9616: Rating - 4, Reviewer - 67302217a1fb347cf2bf96bb
+2024-11-10 08:01:52,608 - INFO - Generated review for food 67302212a1fb347cf2bf95af: Rating - 3, Reviewer - 67302217a1fb347cf2bf96bc
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf9659: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c8
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf9613: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95f6: Rating - 4, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95f5: Rating - 1, Reviewer - 67302217a1fb347cf2bf96bc
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf9659: Rating - 2, Reviewer - 67302217a1fb347cf2bf96ae
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a5
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95cd: Rating - 5, Reviewer - 67302217a1fb347cf2bf969f
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95bf: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a7
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf963d: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b3
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95e8: Rating - 3, Reviewer - 67302217a1fb347cf2bf968c
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95ca: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b3
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95ef: Rating - 3, Reviewer - 67302217a1fb347cf2bf969e
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95bf: Rating - 4, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf9671: Rating - 5, Reviewer - 67302217a1fb347cf2bf968e
+2024-11-10 08:01:52,609 - INFO - Generated review for food 67302212a1fb347cf2bf95bc: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b9
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf960c: Rating - 2, Reviewer - 67302217a1fb347cf2bf96b6
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf963d: Rating - 5, Reviewer - 67302217a1fb347cf2bf9687
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf9637: Rating - 5, Reviewer - 67302217a1fb347cf2bf96be
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf95d3: Rating - 4, Reviewer - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 3, Reviewer - 67302217a1fb347cf2bf967b
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf95b7: Rating - 4, Reviewer - 67302217a1fb347cf2bf9699
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf961b: Rating - 5, Reviewer - 67302217a1fb347cf2bf9693
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf960e: Rating - 5, Reviewer - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf960b: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b4
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf95d2: Rating - 4, Reviewer - 67302217a1fb347cf2bf967e
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf9622: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a3
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf9654: Rating - 2, Reviewer - 67302217a1fb347cf2bf96af
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf95b7: Rating - 5, Reviewer - 67302217a1fb347cf2bf9676
+2024-11-10 08:01:52,610 - INFO - Generated review for food 67302212a1fb347cf2bf964b: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf95d0: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf9661: Rating - 4, Reviewer - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf95e2: Rating - 5, Reviewer - 67302217a1fb347cf2bf9673
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf95bd: Rating - 4, Reviewer - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf962a: Rating - 3, Reviewer - 67302217a1fb347cf2bf9682
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf966d: Rating - 5, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf9628: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf95cc: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a4
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf964f: Rating - 5, Reviewer - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf95e4: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf963a: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf966d: Rating - 5, Reviewer - 67302217a1fb347cf2bf96bd
+2024-11-10 08:01:52,611 - INFO - Generated review for food 67302212a1fb347cf2bf9607: Rating - 3, Reviewer - 67302217a1fb347cf2bf967c
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf9669: Rating - 5, Reviewer - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf95b3: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b9
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf963a: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d4
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf9618: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a4
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf9616: Rating - 1, Reviewer - 67302217a1fb347cf2bf96c6
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf9669: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf960d: Rating - 3, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf95d9: Rating - 3, Reviewer - 67302217a1fb347cf2bf9689
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf95d6: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf95ff: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ab
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf95ee: Rating - 5, Reviewer - 67302217a1fb347cf2bf9676
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf961a: Rating - 5, Reviewer - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf9649: Rating - 5, Reviewer - 67302217a1fb347cf2bf96bd
+2024-11-10 08:01:52,612 - INFO - Generated review for food 67302212a1fb347cf2bf95c2: Rating - 5, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf9657: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c3
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf9662: Rating - 5, Reviewer - 67302217a1fb347cf2bf9673
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf9636: Rating - 2, Reviewer - 67302217a1fb347cf2bf967f
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf965e: Rating - 4, Reviewer - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf9639: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b0
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf9644: Rating - 5, Reviewer - 67302217a1fb347cf2bf9697
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf966f: Rating - 2, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf95f5: Rating - 5, Reviewer - 67302217a1fb347cf2bf968c
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf962e: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c5
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf95bc: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c2
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf95f5: Rating - 2, Reviewer - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf9665: Rating - 5, Reviewer - 67302217a1fb347cf2bf9695
+2024-11-10 08:01:52,613 - INFO - Generated review for food 67302212a1fb347cf2bf95f8: Rating - 2, Reviewer - 67302217a1fb347cf2bf9690
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95d8: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf9654: Rating - 2, Reviewer - 67302217a1fb347cf2bf96cf
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 4, Reviewer - 67302217a1fb347cf2bf969d
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf966a: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a6
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf9623: Rating - 4, Reviewer - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95c6: Rating - 4, Reviewer - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf9657: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf960b: Rating - 5, Reviewer - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95b9: Rating - 5, Reviewer - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95bb: Rating - 5, Reviewer - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95fb: Rating - 3, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf9654: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf962c: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a7
+2024-11-10 08:01:52,614 - INFO - Generated review for food 67302212a1fb347cf2bf95f2: Rating - 2, Reviewer - 67302217a1fb347cf2bf9695
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf9613: Rating - 4, Reviewer - 67302217a1fb347cf2bf9694
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf9635: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a3
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf95bf: Rating - 3, Reviewer - 67302217a1fb347cf2bf969b
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf95c2: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d4
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf960a: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c1
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf9640: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b9
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf9605: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf9672: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf960b: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b5
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf95e3: Rating - 5, Reviewer - 67302217a1fb347cf2bf9685
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf95c8: Rating - 3, Reviewer - 67302217a1fb347cf2bf967e
+2024-11-10 08:01:52,615 - INFO - Generated review for food 67302212a1fb347cf2bf95e3: Rating - 4, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf961b: Rating - 5, Reviewer - 67302217a1fb347cf2bf968b
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf95b0: Rating - 5, Reviewer - 67302217a1fb347cf2bf9697
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf95fa: Rating - 4, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf95e6: Rating - 5, Reviewer - 67302217a1fb347cf2bf969a
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf9659: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf9601: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c6
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf9604: Rating - 4, Reviewer - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf95d5: Rating - 1, Reviewer - 67302217a1fb347cf2bf96b2
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf9615: Rating - 2, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf95bd: Rating - 5, Reviewer - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf95b7: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf963d: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a9
+2024-11-10 08:01:52,616 - INFO - Generated review for food 67302212a1fb347cf2bf9611: Rating - 5, Reviewer - 67302217a1fb347cf2bf967c
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf963e: Rating - 4, Reviewer - 67302217a1fb347cf2bf9695
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf95d3: Rating - 4, Reviewer - 67302217a1fb347cf2bf9677
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf95bd: Rating - 5, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf9618: Rating - 1, Reviewer - 67302217a1fb347cf2bf967c
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf962d: Rating - 1, Reviewer - 67302217a1fb347cf2bf96b2
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf95eb: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ad
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf9635: Rating - 2, Reviewer - 67302217a1fb347cf2bf968e
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf9600: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d6
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf9637: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf961d: Rating - 4, Reviewer - 67302217a1fb347cf2bf969f
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf9658: Rating - 5, Reviewer - 67302217a1fb347cf2bf96b0
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf95af: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a6
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf95e7: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d1
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf963f: Rating - 5, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,617 - INFO - Generated review for food 67302212a1fb347cf2bf95cb: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf95b9: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c8
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf9628: Rating - 5, Reviewer - 67302217a1fb347cf2bf968b
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf966a: Rating - 1, Reviewer - 67302217a1fb347cf2bf96d6
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf95e3: Rating - 2, Reviewer - 67302217a1fb347cf2bf96cf
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf965b: Rating - 4, Reviewer - 67302217a1fb347cf2bf9680
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf966c: Rating - 5, Reviewer - 67302217a1fb347cf2bf968f
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf95b1: Rating - 2, Reviewer - 67302217a1fb347cf2bf968b
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf966d: Rating - 5, Reviewer - 67302217a1fb347cf2bf967a
+2024-11-10 08:01:52,618 - INFO - Generated review for food 67302212a1fb347cf2bf95bb: Rating - 5, Reviewer - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95dd: Rating - 4, Reviewer - 67302217a1fb347cf2bf9692
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c2
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf9632: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d1
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95bd: Rating - 2, Reviewer - 67302217a1fb347cf2bf96c3
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf9624: Rating - 5, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf966e: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95cb: Rating - 5, Reviewer - 67302217a1fb347cf2bf96bd
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf9666: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c3
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95c6: Rating - 3, Reviewer - 67302217a1fb347cf2bf968d
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95ea: Rating - 4, Reviewer - 67302217a1fb347cf2bf969b
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf95f5: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ae
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf9653: Rating - 5, Reviewer - 67302217a1fb347cf2bf96af
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf9633: Rating - 1, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,619 - INFO - Generated review for food 67302212a1fb347cf2bf9621: Rating - 3, Reviewer - 67302217a1fb347cf2bf96a5
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf9611: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95b4: Rating - 2, Reviewer - 67302217a1fb347cf2bf96a9
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95e7: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a4
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf9666: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d0
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf9634: Rating - 3, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95b0: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95ba: Rating - 3, Reviewer - 67302217a1fb347cf2bf968c
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95e4: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 4, Reviewer - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf95ec: Rating - 5, Reviewer - 67302217a1fb347cf2bf9678
+2024-11-10 08:01:52,620 - INFO - Generated review for food 67302212a1fb347cf2bf960f: Rating - 5, Reviewer - 67302217a1fb347cf2bf96bc
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf9647: Rating - 1, Reviewer - 67302217a1fb347cf2bf96b4
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 5, Reviewer - 67302217a1fb347cf2bf969d
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf9642: Rating - 3, Reviewer - 67302217a1fb347cf2bf969c
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95d7: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c1
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf963c: Rating - 5, Reviewer - 67302217a1fb347cf2bf967e
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf966f: Rating - 5, Reviewer - 67302217a1fb347cf2bf9689
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95c4: Rating - 5, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95b5: Rating - 5, Reviewer - 67302217a1fb347cf2bf9682
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95d5: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ba
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf962b: Rating - 2, Reviewer - 67302217a1fb347cf2bf96b0
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95db: Rating - 4, Reviewer - 67302217a1fb347cf2bf968d
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf9670: Rating - 5, Reviewer - 67302217a1fb347cf2bf9682
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf95ec: Rating - 4, Reviewer - 67302217a1fb347cf2bf9690
+2024-11-10 08:01:52,621 - INFO - Generated review for food 67302212a1fb347cf2bf9672: Rating - 5, Reviewer - 67302217a1fb347cf2bf9681
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 2, Reviewer - 67302217a1fb347cf2bf96d4
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9622: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b1
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf95d9: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ca
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9627: Rating - 5, Reviewer - 67302217a1fb347cf2bf968c
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9644: Rating - 4, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9659: Rating - 1, Reviewer - 67302217a1fb347cf2bf96aa
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf95e2: Rating - 2, Reviewer - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9645: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a6
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9642: Rating - 4, Reviewer - 67302217a1fb347cf2bf96af
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf95e2: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c1
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9605: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ae
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf962a: Rating - 2, Reviewer - 67302217a1fb347cf2bf96a4
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf966d: Rating - 5, Reviewer - 67302217a1fb347cf2bf967b
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf960d: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b7
+2024-11-10 08:01:52,622 - INFO - Generated review for food 67302212a1fb347cf2bf9610: Rating - 4, Reviewer - 67302217a1fb347cf2bf968d
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf966f: Rating - 4, Reviewer - 67302217a1fb347cf2bf9694
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 5, Reviewer - 67302217a1fb347cf2bf9695
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95dc: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf9639: Rating - 5, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95be: Rating - 4, Reviewer - 67302217a1fb347cf2bf967c
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf9640: Rating - 5, Reviewer - 67302217a1fb347cf2bf969c
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf9601: Rating - 2, Reviewer - 67302217a1fb347cf2bf9696
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf9648: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d0
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf961a: Rating - 4, Reviewer - 67302217a1fb347cf2bf969b
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95d6: Rating - 5, Reviewer - 67302217a1fb347cf2bf968e
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf9644: Rating - 2, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf964d: Rating - 5, Reviewer - 67302217a1fb347cf2bf967d
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf965f: Rating - 5, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95de: Rating - 4, Reviewer - 67302217a1fb347cf2bf967f
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf9647: Rating - 3, Reviewer - 67302217a1fb347cf2bf96bb
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf965c: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95cc: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d1
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95b2: Rating - 5, Reviewer - 67302217a1fb347cf2bf9673
+2024-11-10 08:01:52,623 - INFO - Generated review for food 67302212a1fb347cf2bf95c9: Rating - 5, Reviewer - 67302217a1fb347cf2bf969f
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf9668: Rating - 3, Reviewer - 67302217a1fb347cf2bf967d
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf95b4: Rating - 5, Reviewer - 67302217a1fb347cf2bf967a
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf963c: Rating - 5, Reviewer - 67302217a1fb347cf2bf9680
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf962c: Rating - 4, Reviewer - 67302217a1fb347cf2bf96b9
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf95b9: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a5
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf95ef: Rating - 4, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf95ec: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf95ce: Rating - 4, Reviewer - 67302217a1fb347cf2bf967a
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf9611: Rating - 2, Reviewer - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf9627: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c9
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf95c4: Rating - 4, Reviewer - 67302217a1fb347cf2bf9697
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf9640: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a2
+2024-11-10 08:01:52,624 - INFO - Generated review for food 67302212a1fb347cf2bf9608: Rating - 1, Reviewer - 67302217a1fb347cf2bf9687
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf963e: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c0
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf961f: Rating - 2, Reviewer - 67302217a1fb347cf2bf969a
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf9672: Rating - 4, Reviewer - 67302217a1fb347cf2bf9690
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf961d: Rating - 4, Reviewer - 67302217a1fb347cf2bf96bb
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf9664: Rating - 4, Reviewer - 67302217a1fb347cf2bf969f
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf960c: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf9604: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf95e3: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a6
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf95f6: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d5
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf9652: Rating - 3, Reviewer - 67302217a1fb347cf2bf9675
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf95ed: Rating - 5, Reviewer - 67302217a1fb347cf2bf969d
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf965e: Rating - 4, Reviewer - 67302217a1fb347cf2bf967d
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf961d: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf9667: Rating - 5, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf95fe: Rating - 5, Reviewer - 67302217a1fb347cf2bf969c
+2024-11-10 08:01:52,625 - INFO - Generated review for food 67302212a1fb347cf2bf962f: Rating - 4, Reviewer - 67302217a1fb347cf2bf9680
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95ce: Rating - 3, Reviewer - 67302217a1fb347cf2bf9692
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95cb: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ab
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95ea: Rating - 3, Reviewer - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf962b: Rating - 4, Reviewer - 67302217a1fb347cf2bf9697
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf960a: Rating - 4, Reviewer - 67302217a1fb347cf2bf969c
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf962b: Rating - 2, Reviewer - 67302217a1fb347cf2bf9697
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf9635: Rating - 2, Reviewer - 67302217a1fb347cf2bf968e
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95ec: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a5
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95d5: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a3
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95f4: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95d5: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c8
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95d7: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95d4: Rating - 1, Reviewer - 67302217a1fb347cf2bf967e
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf966a: Rating - 5, Reviewer - 67302217a1fb347cf2bf969d
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf9669: Rating - 4, Reviewer - 67302217a1fb347cf2bf968e
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95b8: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95c4: Rating - 4, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf95bd: Rating - 2, Reviewer - 67302217a1fb347cf2bf9688
+2024-11-10 08:01:52,626 - INFO - Generated review for food 67302212a1fb347cf2bf9604: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a1
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf965a: Rating - 4, Reviewer - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf9634: Rating - 4, Reviewer - 67302217a1fb347cf2bf9691
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf9618: Rating - 4, Reviewer - 67302217a1fb347cf2bf967f
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95e1: Rating - 1, Reviewer - 67302217a1fb347cf2bf96ca
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95fd: Rating - 4, Reviewer - 67302217a1fb347cf2bf967c
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf962a: Rating - 4, Reviewer - 67302217a1fb347cf2bf967f
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf9608: Rating - 4, Reviewer - 67302217a1fb347cf2bf96bb
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95ac: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95e9: Rating - 4, Reviewer - 67302217a1fb347cf2bf96d3
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 3, Reviewer - 67302217a1fb347cf2bf96d0
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf963d: Rating - 4, Reviewer - 67302217a1fb347cf2bf9677
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95cb: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c9
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95b6: Rating - 5, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf9651: Rating - 4, Reviewer - 67302217a1fb347cf2bf967a
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf9671: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c7
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95d3: Rating - 4, Reviewer - 67302217a1fb347cf2bf9677
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95cd: Rating - 4, Reviewer - 67302217a1fb347cf2bf9673
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf9631: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a9
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95c4: Rating - 4, Reviewer - 67302217a1fb347cf2bf9690
+2024-11-10 08:01:52,627 - INFO - Generated review for food 67302212a1fb347cf2bf95fe: Rating - 5, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9618: Rating - 2, Reviewer - 67302217a1fb347cf2bf96cd
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9628: Rating - 5, Reviewer - 67302217a1fb347cf2bf96be
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9666: Rating - 5, Reviewer - 67302217a1fb347cf2bf96d0
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9615: Rating - 2, Reviewer - 67302217a1fb347cf2bf9694
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95bd: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95e0: Rating - 5, Reviewer - 67302217a1fb347cf2bf969f
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95ec: Rating - 3, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9652: Rating - 4, Reviewer - 67302217a1fb347cf2bf967a
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf966c: Rating - 4, Reviewer - 67302217a1fb347cf2bf96bf
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf963a: Rating - 4, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95df: Rating - 3, Reviewer - 67302217a1fb347cf2bf96bc
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95fb: Rating - 5, Reviewer - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9651: Rating - 1, Reviewer - 67302217a1fb347cf2bf96be
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf966d: Rating - 2, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95c2: Rating - 5, Reviewer - 67302217a1fb347cf2bf96af
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9656: Rating - 3, Reviewer - 67302217a1fb347cf2bf96ce
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95d2: Rating - 3, Reviewer - 67302217a1fb347cf2bf9681
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 4, Reviewer - 67302217a1fb347cf2bf96ba
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9616: Rating - 3, Reviewer - 67302217a1fb347cf2bf96b8
+2024-11-10 08:01:52,628 - INFO - Generated review for food 67302212a1fb347cf2bf9642: Rating - 5, Reviewer - 67302217a1fb347cf2bf9677
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9653: Rating - 2, Reviewer - 67302217a1fb347cf2bf96d2
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9623: Rating - 4, Reviewer - 67302217a1fb347cf2bf9684
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf960a: Rating - 5, Reviewer - 67302217a1fb347cf2bf96c1
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf95b7: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c5
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9641: Rating - 4, Reviewer - 67302217a1fb347cf2bf968a
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9665: Rating - 4, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9635: Rating - 1, Reviewer - 67302217a1fb347cf2bf96ac
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf95ab: Rating - 4, Reviewer - 67302217a1fb347cf2bf9681
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9621: Rating - 4, Reviewer - 67302217a1fb347cf2bf96c4
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf95c7: Rating - 1, Reviewer - 67302217a1fb347cf2bf96b9
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf95e2: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a5
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9614: Rating - 2, Reviewer - 67302217a1fb347cf2bf96c0
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9628: Rating - 3, Reviewer - 67302217a1fb347cf2bf9674
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9623: Rating - 5, Reviewer - 67302217a1fb347cf2bf9686
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf9639: Rating - 4, Reviewer - 67302217a1fb347cf2bf9679
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf95c4: Rating - 5, Reviewer - 67302217a1fb347cf2bf9683
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf965c: Rating - 5, Reviewer - 67302217a1fb347cf2bf9681
+2024-11-10 08:01:52,629 - INFO - Generated review for food 67302212a1fb347cf2bf963a: Rating - 4, Reviewer - 67302217a1fb347cf2bf96a9
+2024-11-10 08:01:52,630 - INFO - Generated review for food 67302212a1fb347cf2bf95e0: Rating - 3, Reviewer - 67302217a1fb347cf2bf96a8
+2024-11-10 08:01:52,630 - INFO - Generated review for food 67302212a1fb347cf2bf95cf: Rating - 3, Reviewer - 67302217a1fb347cf2bf96c9
+2024-11-10 08:01:52,630 - INFO - Generated review for food 67302212a1fb347cf2bf9605: Rating - 5, Reviewer - 67302217a1fb347cf2bf9696
+2024-11-10 08:02:01,512 - INFO - Data generation and upload completed successfully!
+2024-11-10 08:02:01,639 - INFO - MongoDB connection closed.
