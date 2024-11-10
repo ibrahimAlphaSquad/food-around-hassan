@@ -24,12 +24,14 @@ function Order() {
         },
         data: { id, role },
       });
-      console.log(result);
+      console.log(result.data.orders);
       if (result.data.length === 0) {
         setNoOrders(true);
         return <Redirect to={"/home"} />;
+      } else {
+        setNoOrders(false);
+        setOrders(result.data.orders);
       }
-      setOrders(result.data.orders);
     }
     orderHandler();
   }, []);

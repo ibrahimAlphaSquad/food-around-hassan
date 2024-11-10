@@ -1,25 +1,14 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { Link, useLocation, useHistory } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Cookies from "universal-cookie";
+import UserNavbar from "../../Navbar/UserNavbar";
 
 const cookies = new Cookies();
-const userName = cookies.get("userName");
 
 function Order() {
   const [orders, setOrders] = useState(null);
   const [noOrders, setNoOrders] = useState(true);
-  const location = useLocation(); // Get the current location
-  const history = useHistory();
-
-  const logout = () => {
-    cookies.remove("ka_token", { path: "/" });
-    cookies.remove("userId", { path: "/" });
-    cookies.remove("userEmail", { path: "/" });
-    cookies.remove("userName", { path: "/" });
-    cookies.remove("userRole", { path: "/" });
-    history.push("/login");
-  };
 
   useEffect(() => {
     const token = cookies.get("ka_token");
@@ -36,70 +25,20 @@ function Order() {
         },
         data: { id, role },
       });
-      console.log(result);
+      console.log(result.data.orders);
       if (result.data.length === 0) {
         setNoOrders(true);
+      } else {
+        setNoOrders(false);
+        setOrders(result.data.orders);
       }
-      setOrders(result.data.orders);
     }
     orderHandler();
   }, []);
 
   return (
     <>
-      <header className="header">
-        <div className="header__logo">
-          <span>KhanSaama</span>
-        </div>
-        <div className="header__profile">
-          <p>
-            Hi, <span>{userName}</span>
-          </p>
-          <ul
-            className="navbar-nav"
-            style={{
-              display: "flex",
-              gap: "1em",
-              listStyle: "none",
-              padding: 0,
-              margin: 0,
-              flexDirection: "row",
-            }}
-          >
-            <li className="nav-item">
-              <Link
-                className="nav-link"
-                to="/home"
-                style={location.pathname === "/home" ? activeStyle : {}}
-              >
-                Home
-              </Link>
-            </li>
-            <li className="nav-item">
-              <Link
-                className="nav-link"
-                to="/customer-order"
-                style={
-                  location.pathname === "/customer-order" ? activeStyle : {}
-                }
-              >
-                My Orders
-              </Link>
-            </li>
-            <li className="nav-item">
-              <button
-                className="btn btn-outline-light logout-button"
-                onClick={logout}
-              >
-                Logout
-              </button>
-            </li>
-          </ul>
-        </div>
-      </header>
-      <br />
-      <div className="row" style={{ marginLeft: "10px" }}></div>
-
+      <UserNavbar />
       {noOrders ? (
         <div id="loginRedir">
           <Link to="/home">You Have No orders yet</Link>
@@ -139,12 +78,5 @@ function Order() {
     </>
   );
 }
-
-// Inline style for active link
-const activeStyle = {
-  color: "#ffadad", // Lighter color for active link
-  fontWeight: "bold",
-  textDecoration: "underline",
-};
 
 export default Order;

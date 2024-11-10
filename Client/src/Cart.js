@@ -3,6 +3,7 @@ import Spinner from "./Components/Spinner/Spinner";
 import Cookies from "universal-cookie";
 import { Link, Redirect } from "react-router-dom";
 import "./Cart.css";
+import UserNavbar from "./Components/Navbar/UserNavbar";
 
 const cookies = new Cookies();
 
@@ -73,6 +74,7 @@ const Cart = () => {
 
   return (
     <>
+      <UserNavbar />
       {cartIsEmpty ? (
         <div id="loginRedir">
           <Link to="/login">

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Spinner from "../Spinner/Spinner";
 import {Link} from 'react-router-dom';
 import Cookies from 'universal-cookie';
+import UserNavbar from "../Navbar/UserNavbar";
 
 const cookies = new Cookies();
 const orderedBy = cookies.get("userId");
@@ -83,6 +84,7 @@ function Menu() {
   return (
 
     <div>
+      <UserNavbar />
       <section
         id="menu"
         className="menu section-bg"
