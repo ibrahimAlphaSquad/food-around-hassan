@@ -100,6 +100,7 @@ const center = {
           <li><a href="#gallery"></a></li>
           <li><a href="#contact"></a></li>
           <li className="book-a-table text-center"><Link to = {'/register'}>Register Your Self</Link></li>
+          <li className="book-a-table text-center"><Link to = {'/login'}>Login</Link></li>
         </ul>
       </nav>{/* .nav-menu */}
     </div>
