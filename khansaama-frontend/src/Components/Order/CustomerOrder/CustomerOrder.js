@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { Link } from "react-router-dom";
 import Cookies from "universal-cookie";
 import UserNavbar from "../../Navbar/UserNavbar";
-import "./Order.css"; // Assuming you have a CSS file for styling
 
 const cookies = new Cookies();
 
@@ -12,6 +10,107 @@ function Order() {
   const [noOrders, setNoOrders] = useState(true);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  const styles = {
+    container: {
+      backgroundColor: "#1a1814",
+      minHeight: "100vh",
+      color: "white",
+      padding: "20px",
+    },
+    pageTitle: {
+      color: "#cda45e",
+      textAlign: "center",
+      fontSize: "32px",
+      padding: "40px 0",
+      fontWeight: "600",
+    },
+    ordersContainer: {
+      maxWidth: "1200px",
+      margin: "0 auto",
+      padding: "20px",
+    },
+    orderCard: {
+      backgroundColor: "rgba(255, 255, 255, 0.08)",
+      borderRadius: "8px",
+      padding: "20px",
+      marginBottom: "30px",
+    },
+    orderHeader: {
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center",
+      paddingBottom: "15px",
+      borderBottom: "1px solid rgba(255, 255, 255, 0.1)",
+      marginBottom: "20px",
+    },
+    orderNumber: {
+      color: "#cda45e",
+      fontSize: "20px",
+      fontWeight: "600",
+    },
+    orderDate: {
+      color: "#aaa",
+      fontSize: "14px",
+    },
+    itemContainer: {
+      display: "flex",
+      alignItems: "center",
+      padding: "15px",
+      backgroundColor: "rgba(255, 255, 255, 0.05)",
+      borderRadius: "6px",
+      marginBottom: "15px",
+    },
+    itemImage: {
+      width: "80px",
+      height: "80px",
+      borderRadius: "8px",
+      objectFit: "cover",
+      marginRight: "20px",
+    },
+    itemDetails: {
+      flex: 1,
+    },
+    itemName: {
+      fontSize: "18px",
+      color: "#cda45e",
+      marginBottom: "8px",
+    },
+    itemPrice: {
+      fontSize: "16px",
+      color: "#fff",
+      marginBottom: "5px",
+    },
+    quantity: {
+      fontSize: "14px",
+      color: "#aaa",
+    },
+    noOrders: {
+      textAlign: "center",
+      padding: "40px",
+      color: "#cda45e",
+    },
+    homeButton: {
+      backgroundColor: "#cda45e",
+      color: "white",
+      border: "none",
+      padding: "10px 20px",
+      borderRadius: "4px",
+      cursor: "pointer",
+      fontSize: "16px",
+      marginTop: "20px",
+      transition: "background-color 0.3s",
+    },
+    orderTotal: {
+      textAlign: "right",
+      marginTop: "15px",
+      paddingTop: "15px",
+      borderTop: "1px solid rgba(255, 255, 255, 0.1)",
+      color: "#cda45e",
+      fontSize: "18px",
+      fontWeight: "600",
+    },
+  };
 
   useEffect(() => {
     const fetchOrders = async () => {
@@ -26,8 +125,6 @@ function Order() {
           throw new Error("Please login to view your orders");
         }
 
-        const role = "customer";
-
         const result = await axios({
           method: "post",
           url: "http://localhost:3002/orders/get/incomplete",
@@ -35,8 +132,8 @@ function Order() {
             "Content-Type": "application/json",
             Authorization: token,
           },
-          data: { id, role },
-          timeout: 10000, // 10 second timeout
+          data: { id, role: "customer" },
+          timeout: 10000,
         });
 
         if (!result.data || !result.data.orders) {
@@ -53,31 +150,7 @@ function Order() {
           }
         }
       } catch (err) {
-        let errorMessage = "Failed to fetch orders. ";
-
-        if (err.response) {
-          switch (err.response.status) {
-            case 401:
-              errorMessage = "Please login again to view your orders.";
-              break;
-            case 403:
-              errorMessage = "You don't have permission to view these orders.";
-              break;
-            case 404:
-              errorMessage = "No orders found.";
-              break;
-            default:
-              errorMessage +=
-                err.response.data?.message || "Please try again later.";
-          }
-        } else if (err.request) {
-          errorMessage =
-            "Cannot connect to server. Please check your internet connection.";
-        } else {
-          errorMessage = err.message || "An unexpected error occurred.";
-        }
-
-        setError(errorMessage);
+        setError(err.message || "Failed to fetch orders");
         setOrders(null);
         setNoOrders(true);
       } finally {
@@ -92,9 +165,10 @@ function Order() {
     return (
       <>
         <UserNavbar />
-        <div className="loading-container">
-          <div className="loader"></div>
-          <p>Loading your orders...</p>
+        <div style={styles.container}>
+          <div style={{ textAlign: "center", padding: "40px" }}>
+            Loading your orders...
+          </div>
         </div>
       </>
     );
@@ -104,77 +178,95 @@ function Order() {
     return (
       <>
         <UserNavbar />
-        <div className="error-container">
-          <p className="error-message">{error}</p>
-          <Link to="/home" className="home-link">
-            Return to Home
-          </Link>
+        <div style={styles.container}>
+          <div
+            style={{ textAlign: "center", padding: "40px", color: "#dc3545" }}
+          >
+            <p>{error}</p>
+            <button
+              onClick={() => (window.location.href = "/home")}
+              style={styles.homeButton}
+            >
+              Return to Home
+            </button>
+          </div>
         </div>
       </>
     );
   }
 
+  console.log({ orders });
+
   return (
     <>
       <UserNavbar />
-      {noOrders ? (
-        <div className="no-orders-container">
-          <p>You don't have any orders yet</p>
-          <Link to="/home" className="home-link">
-            Browse Menu
-          </Link>
-        </div>
-      ) : (
-        <div>
-          <section id="menu" className="menu section-bg">
-            <div className="container" data-aos="fade-up">
-              <div className="section-title">
-                <p>Your Orders</p>
-              </div>
-              <div
-                className="col menu-container"
-                data-aos="fade-up"
-                data-aos-delay={200}
-              >
-                {orders && orders[0]?.itemsOrdered?.length > 0 ? (
-                  orders[0].itemsOrdered.map((order, index) => (
-                    <div className="col-lg-6 menu-item" key={index}>
+      <div style={styles.container}>
+        <h1 style={styles.pageTitle}>YOUR ORDERS</h1>
+
+        {noOrders ? (
+          <div style={styles.noOrders}>
+            <p>You don't have any orders yet</p>
+            <button
+              onClick={() => (window.location.href = "/home")}
+              style={styles.homeButton}
+            >
+              Browse Menu
+            </button>
+          </div>
+        ) : (
+          <div style={styles.ordersContainer}>
+            {orders &&
+              orders.map((order, orderIndex) => (
+                <div key={orderIndex} style={styles.orderCard}>
+                  <div style={styles.orderHeader}>
+                    <div style={styles.orderNumber}>
+                      Order #{order._id.slice(-4)}
+                    </div>
+                    <div style={styles.orderDate}>
+                      {new Date(order.orderDate).toLocaleString()}
+                    </div>
+                  </div>
+
+                  {order.itemsOrdered.map((item, itemIndex) => (
+                    <div key={itemIndex} style={styles.itemContainer}>
                       <img
                         src={
-                          order.itemImage ||
+                          item.itemImage ||
                           require("../../../assets/img/menu/lobster-bisque.jpg")
                         }
-                        className="menu-img"
-                        alt={order.itemName}
+                        style={styles.itemImage}
+                        alt={item.itemName}
                         onError={(e) => {
                           e.target.onerror = null;
                           e.target.src = require("../../../assets/img/menu/lobster-bisque.jpg");
                         }}
                       />
-                      <div className="menu-content">
-                        <div className="item-name">{order.itemName}</div>
-                        <div className="item-price">
-                          {order.itemTotalPrice} Pkr
+                      <div style={styles.itemDetails}>
+                        <div style={styles.itemName}>{item.itemName}</div>
+                        <div style={styles.itemPrice}>
+                          {item.itemTotalPrice} PKR
+                        </div>
+                        <div style={styles.quantity}>
+                          QUANTITY: {item.quantity || 1}
                         </div>
                       </div>
-                      <div className="menu-details">
-                        <p>Quantity: {order.quantity || 1}</p>
-                        {order.specialInstructions && (
-                          <p>Notes: {order.specialInstructions}</p>
-                        )}
-                      </div>
                     </div>
-                  ))
-                ) : (
-                  <div className="no-items-message">
-                    <p>No items found in your order</p>
+                  ))}
+
+                  <div style={styles.orderTotal}>
+                    Total Amount:{" "}
+                    {order.itemsOrdered.reduce(
+                      (total, item) =>
+                        total + item.itemTotalPrice * (item.quantity || 1),
+                      0
+                    )}{" "}
+                    PKR
                   </div>
-                )}
-              </div>
-            </div>
-          </section>
-        </div>
-      )}
+                </div>
+              ))}
+          </div>
+        )}
+      </div>
     </>
   );
 }

@@ -280,7 +280,7 @@ function Order() {
                           Order #{orderGroup._id.slice(-4)}
                         </h3>
                         <span style={styles.orderTime}>
-                          {new Date(orderGroup.createdAt).toLocaleString()}
+                          {new Date(orderGroup.orderDate).toLocaleString()}
                         </span>
                       </div>
 

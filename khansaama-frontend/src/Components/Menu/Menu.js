@@ -80,7 +80,7 @@ function Menu() {
       padding: "20px 0",
     },
     menuCard: {
-      backgroundColor: "white",
+      backgroundColor: "rgba(255, 255, 255, 0.08)",
       borderRadius: "8px",
       padding: "20px",
       boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
@@ -95,18 +95,19 @@ function Menu() {
     dishName: {
       fontSize: "20px",
       fontWeight: "600",
-      color: "#333",
+      color: "#cda45e",
       marginBottom: "10px",
     },
     dishPrice: {
-      color: "#cda45e",
+      color: "#fff",
       fontSize: "18px",
       fontWeight: "600",
     },
     dishDescription: {
-      color: "#666",
+      color: "#aaa",
       fontSize: "14px",
       marginBottom: "15px",
+      lineHeight: "1.5",
     },
     actionButton: {
       width: "100%",
@@ -137,6 +138,7 @@ function Menu() {
       gap: "20px",
       color: "white",
       boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
+      zIndex: 1000,
     },
     viewCartButton: {
       backgroundColor: "white",
@@ -145,6 +147,41 @@ function Menu() {
       borderRadius: "4px",
       textDecoration: "none",
       fontWeight: "600",
+    },
+    errorContainer: {
+      textAlign: "center",
+      padding: "40px",
+      color: "#dc3545",
+    },
+    cartSummary: {
+      position: "fixed",
+      bottom: "20px",
+      left: "50%",
+      transform: "translateX(-50%)",
+      backgroundColor: "#cda45e",
+      padding: "12px 24px",
+      borderRadius: "6px",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "space-between",
+      gap: "20px",
+      color: "white",
+      boxShadow: "0 2px 10px rgba(0, 0, 0, 0.2)",
+      zIndex: 1000,
+      minWidth: "300px",
+      fontSize: "14px",
+    },
+    viewCartButton: {
+      backgroundColor: "white",
+      color: "#cda45e",
+      padding: "8px 16px",
+      borderRadius: "4px",
+      textDecoration: "none",
+      fontWeight: "500",
+      fontSize: "14px",
+      border: "none",
+      cursor: "pointer",
+      transition: "all 0.3s ease",
     },
   };
 
@@ -181,13 +218,32 @@ function Menu() {
     });
   };
 
-  if (isLoading)
+  if (isLoading) {
     return (
       <div style={styles.pageContainer}>
-        <Spinner />
+        <UserNavbar />
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            height: "80vh",
+          }}
+        >
+          <Spinner />
+        </div>
       </div>
     );
-  if (error) return <div style={styles.pageContainer}>Error: {error}</div>;
+  }
+
+  if (error) {
+    return (
+      <div style={styles.pageContainer}>
+        <UserNavbar />
+        <div style={styles.errorContainer}>Error: {error}</div>
+      </div>
+    );
+  }
 
   return (
     <div style={styles.pageContainer}>
@@ -221,6 +277,12 @@ function Menu() {
                 <button
                   style={{ ...styles.actionButton, ...styles.removeButton }}
                   onClick={() => removeDishHandler(dish._id)}
+                  onMouseOver={(e) => {
+                    e.target.style.backgroundColor = "rgba(205, 164, 94, 0.1)";
+                  }}
+                  onMouseOut={(e) => {
+                    e.target.style.backgroundColor = "transparent";
+                  }}
                 >
                   Remove From Cart
                 </button>
@@ -228,6 +290,12 @@ function Menu() {
                 <button
                   style={styles.actionButton}
                   onClick={() => addDishHandler(dish)}
+                  onMouseOver={(e) => {
+                    e.target.style.backgroundColor = "#d4b36b";
+                  }}
+                  onMouseOut={(e) => {
+                    e.target.style.backgroundColor = "#cda45e";
+                  }}
                 >
                   Add To Cart
                 </button>
@@ -238,13 +306,10 @@ function Menu() {
 
         {cart.itemsOrdered.length > 0 && (
           <div style={styles.cartSummary}>
-            <span>
+            <div>
               TOTAL ITEMS: {cart.itemsOrdered.length} | AMOUNT: PKR{" "}
               {cart.amount}
-            </span>
-            <Link to="/cart" style={styles.viewCartButton}>
-              VIEW CART
-            </Link>
+            </div>
           </div>
         )}
       </div>
