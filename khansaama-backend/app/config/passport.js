@@ -4,7 +4,7 @@ const localStrategy = require('passport-local').Strategy;
 const {ExtractJwt} = require('passport-jwt');
 const GooglePlusTokenStrategy = require('passport-google-plus-token');
 
-const {secret} = require('./');
+const {secret} = require('.');
 const {Chef} = require('../../models/chef');
 const {Customer} = require('../../models/customer');
 
