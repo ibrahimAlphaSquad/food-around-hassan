@@ -43,3 +43,15 @@ Install node modules if they are not present already
 ```bash
 npm run start
 ```
+
+#### Foodie Credentials
+```bash
+UN: hassankhan140@gmail.com
+PS: Test@1234
+```
+
+#### Chef Credentials
+```bash
+UN: hassankhan150@gmail.com
+PS: Test@1234
+```

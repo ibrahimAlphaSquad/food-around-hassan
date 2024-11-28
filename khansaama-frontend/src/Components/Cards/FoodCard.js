@@ -20,7 +20,7 @@ import EditFood from "./EditFood.js";
 
 function FoodCard(props) {
   console.log("Food Props are ", props);
-  let { name, description } = props;
+  let { name, description, image,price } = props;
   const [showEditModal, setShowEditModal] = useState(false);
 
   ////////////////////////////////////////////////////////////
@@ -42,7 +42,11 @@ function FoodCard(props) {
     <>
       <div className="card" style={{ width: "18rem" }}>
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg"
+          src={
+            image
+              ? image
+              : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Biryani_Home.jpg/1200px-Biryani_Home.jpg"
+          }
           className="card-img-top"
           alt="..."
         />
@@ -51,7 +55,7 @@ function FoodCard(props) {
           <p className="card-text">{description}.</p>
           <button
             className="btn btn-primary"
-           onClick={() => setShowEditModal(true)}
+            onClick={() => setShowEditModal(true)}
           >
             Edit {/*Button to Edit Food */}
           </button>
@@ -67,9 +71,3 @@ function FoodCard(props) {
 }
 
 export default FoodCard;
-
-
-
-
-
-                     
