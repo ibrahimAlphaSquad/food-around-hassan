@@ -12,44 +12,38 @@ function MainPage(props) {
   const [chefs, setChefs] = useState(null);
 
   useEffect(() => {
-    async function fetchAllChefs() {
-      let result = await axios({
-        method: "get",
-        url: "http://localhost:3002/role/chefs",
-      });
-      console.log(result, "check1");
-      let location = [];
-      result.data.map((chef) => {
-        let obj = {
+    const fetchAllData = async () => {
+      try {
+        // Fetch all chefs with axios
+        const chefsResult = await axios.get("http://localhost:3002/role/chefs");
+        const chefsData = chefsResult.data;
+
+        // Map chefs to extract location data
+        const locations = chefsData.map((chef) => ({
           name: chef.name,
           id: chef._id,
           location: {
             lat: chef.address.coordinates[0],
             lng: chef.address.coordinates[1],
           },
-        };
-        location.push(obj);
-      });
-      setChefLocation(location);
-      console.log(location);
-    }
-    fetchAllChefs();
-    async function fetchChefDishes() {
-      const url = `http://localhost:3002/food/find/`;
-      const request = await fetch(url);
-      const response = await request.json();
-      console.log(response);
-      setDishes(response);
-    }
-    fetchChefDishes();
+        }));
+        setChefLocation(locations);
+        setChefs(chefsData); // Save raw chefs data
 
-    async function fetchChefs() {
-      const request = await fetch("http://localhost:3002/role/chefs/");
-      const response = await request.json();
-      console.log(response);
-      setChefs(response);
-    }
-    fetchChefs();
+        console.log("Chefs and locations fetched:", chefsData, locations);
+
+        // Fetch dishes
+        const dishesResponse = await fetch("http://localhost:3002/food/find/");
+        const dishesData = await dishesResponse.json();
+        setDishes(dishesData);
+
+        console.log("Dishes fetched:", dishesData);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    };
+
+    fetchAllData();
   }, []);
 
   const center = {
@@ -356,9 +350,9 @@ function MainPage(props) {
                       Pakistan
                       <br />
                       <br />
-                      <strong>Phone:</strong>03365152551
+                      <strong>Phone: {""}</strong>03001231234
                       <br />
-                      <strong>Email:</strong>hayatjunaid25@gmail.com
+                      <strong>Email: {""}</strong>info@Khansaama.com
                       <br />
                     </p>
                     <div className="social-links mt-3">

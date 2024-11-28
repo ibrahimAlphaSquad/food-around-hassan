@@ -1,4 +1,4 @@
-# fyp
-This was my final year project.
+# FoodAround
 
-This is an REST API server which serves data to an web app developed in Javascript. The web app is a food ordering app much like Foodpanda which offers the functionality to search food/restaurants and place an order.
+## Overview
+FoodAround is a web application that helps users find and review local restaurants.
