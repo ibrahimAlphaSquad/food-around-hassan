@@ -77,9 +77,10 @@ const Cart = () => {
       <UserNavbar />
       {cartIsEmpty ? (
         <div id="loginRedir">
-          <Link to="/login">
+          {/* <Link to="/login">
             You Are not logged in. Click here to log in and start ordering.
-          </Link>
+          </Link> */}
+          <p>Cart Is Empty</p>
         </div>
       ) : (
         <div>
