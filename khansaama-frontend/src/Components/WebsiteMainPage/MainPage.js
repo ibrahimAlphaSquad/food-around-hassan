@@ -350,9 +350,9 @@ function MainPage(props) {
                       Pakistan
                       <br />
                       <br />
-                      <strong>Phone: {""}</strong>03001231234
+                      <strong>Phone: {""}</strong>+39 339 566 4435
                       <br />
-                      <strong>Email: {""}</strong>info@Khansaama.com
+                      <strong>Email: {""}</strong>hassankhan140@gmail.com
                       <br />
                     </p>
                     <div className="social-links mt-3">
