@@ -44,6 +44,8 @@ Install node modules if they are not present already
 npm run start
 ```
 
+### Credentials for both Foodie and Chef
+
 #### Foodie Credentials
 ```bash
 UN: hassankhan140@gmail.com
