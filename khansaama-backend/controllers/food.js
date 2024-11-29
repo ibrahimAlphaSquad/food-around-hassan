@@ -43,7 +43,7 @@ module.exports = {
               { _id: req.body.updates.foodId },
               req.body.updates
             ).then((result) => {
-              console.log("Updated Content is ", result);
+              console.log("Food Edit: Updated Content is ", result);
               if (!result)
                 return res
                   .status(404)

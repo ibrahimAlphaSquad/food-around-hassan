@@ -29,6 +29,7 @@ function Order() {
 
         const result = await axios({
           method: "post",
+          // TODO: Get All orders and show by catagory "ONGOING", "SHIPPED", "COMPLETE", "CANCELLED"
           url: "http://localhost:3002/orders/get/incomplete",
           headers: {
             "Content-Type": "application/json",
@@ -94,6 +95,9 @@ function Order() {
         headers: {
           "Content-Type": "application/json",
           Authorization: token,
+        },
+        data: {
+          status: "SHIPPED",
         },
       });
       window.location.reload();
