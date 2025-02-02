@@ -186,6 +186,7 @@ function Menu() {
   };
 
   const addDishHandler = (dish) => {
+    console.log("Dish added to cart", dish);
     const foodItem = {
       chefID: dish.chef,
       chefName: dish.chefName,
@@ -194,6 +195,8 @@ function Menu() {
       foodPrice: dish.price,
       quantity: 1,
       added: true,
+      image: dish.image,
+      ingredients: dish.description,
     };
 
     setCart((prevCart) => ({
@@ -264,10 +267,6 @@ function Menu() {
                 }
                 style={styles.menuImage}
                 alt={dish.name}
-                onError={(e) => {
-                  e.target.onerror = null;
-                  e.target.src = require("../../assets/img/menu/lobster-bisque.jpg");
-                }}
               />
               <div style={styles.dishName}>{dish.name}</div>
               <div style={styles.dishPrice}>PKR {dish.price}</div>

@@ -16,6 +16,8 @@ function ChefNavBar(props) {
     cookies.remove("userName", { path: "/" });
     cookies.remove("userRole", { path: "/" });
 
+    localStorage.removeItem("cart");
+
     // Redirect to login page
     history.push("/login");
   };

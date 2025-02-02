@@ -256,6 +256,8 @@ function Order() {
     );
   }
 
+  console.log({ orders });
+
   return (
     <>
       <NavBar />
@@ -291,7 +293,10 @@ function Order() {
                       {orderGroup.itemsOrdered.map((item, itemIndex) => (
                         <div key={itemIndex} style={styles.itemContainer}>
                           <img
-                            src={require("../../assets/img/menu/lobster-bisque.jpg")}
+                            src={
+                              item.itemImage ||
+                              require("../../assets/img/menu/lobster-bisque.jpg")
+                            }
                             style={styles.itemImage}
                             alt={item.itemName}
                           />

@@ -227,31 +227,30 @@ function Order() {
                     </div>
                   </div>
 
-                  {order.itemsOrdered.map((item, itemIndex) => (
-                    <div key={itemIndex} style={styles.itemContainer}>
-                      <img
-                        src={
-                          item.itemImage ||
-                          require("../../../assets/img/menu/lobster-bisque.jpg")
-                        }
-                        style={styles.itemImage}
-                        alt={item.itemName}
-                        onError={(e) => {
-                          e.target.onerror = null;
-                          e.target.src = require("../../../assets/img/menu/lobster-bisque.jpg");
-                        }}
-                      />
-                      <div style={styles.itemDetails}>
-                        <div style={styles.itemName}>{item.itemName}</div>
-                        <div style={styles.itemPrice}>
-                          {item.itemTotalPrice} PKR
-                        </div>
-                        <div style={styles.quantity}>
-                          QUANTITY: {item.quantity || 1}
+                  {order.itemsOrdered.map((item, itemIndex) => {
+                    console.log({ item });
+                    return (
+                      <div key={itemIndex} style={styles.itemContainer}>
+                        <img
+                          src={
+                            item.itemImage ||
+                            require("../../../assets/img/menu/lobster-bisque.jpg")
+                          }
+                          style={styles.itemImage}
+                          alt={item.itemName}
+                        />
+                        <div style={styles.itemDetails}>
+                          <div style={styles.itemName}>{item.itemName}</div>
+                          <div style={styles.itemPrice}>
+                            {item.itemTotalPrice} PKR
+                          </div>
+                          <div style={styles.quantity}>
+                            QUANTITY: {item.quantity || 1}
+                          </div>
                         </div>
                       </div>
-                    </div>
-                  ))}
+                    );
+                  })}
 
                   <div style={styles.orderTotal}>
                     Total Amount:{" "}

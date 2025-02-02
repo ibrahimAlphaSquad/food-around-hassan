@@ -107,7 +107,10 @@ const Cart = () => {
                       {cart[`itemsOrdered`].map((dish, index) => (
                         <div className="col-lg-6 menu-item" key={index}>
                           <img
-                            src={require("./assets/img/menu/lobster-bisque.jpg")}
+                            src={
+                              dish.image ||
+                              require("./assets/img/menu/lobster-bisque.jpg")
+                            }
                             className="menu-img"
                             alt={dish.name}
                           />
@@ -116,14 +119,15 @@ const Cart = () => {
                             <span>Pkr {dish.foodPrice}</span>
                           </div>
                           <div className="menu-ingredients">
-                            Lorem, deren, trataro, filede, nerada
+                            {dish.ingredients ||
+                              "Lorem, deren, trataro, filede, nerada"}
                           </div>
                           <div className="menu-ingredients"></div>
                         </div>
                       ))}
 
                       {/* //////////////////////////////////////////////////////////////////////// */}
-                    </div>{" "}
+                    </div>
                     {!success && (
                       <div>
                         <button
@@ -164,4 +168,4 @@ const Cart = () => {
   );
 };
 
-export default Cart
+export default Cart;
